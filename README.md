@@ -73,6 +73,26 @@ This repository is a curated list of interesting and impactful projects related 
 - **Verily Wastewater**
   Wastewater data [https://verily.com/solutions/public-health/wastewater](https://verily.com/solutions/public-health/wastewater)
 
+- **AfterParty19**
+  COVID Contact Tracing for events [https://afterparty19.info/](https://afterparty19.info/)
+
+- **microCOVID**
+  Estimate COVID risk for customizable situations [https://www.microcovid.org/](https://www.microcovid.org/)
+
+- **PeerToPublic**
+  [https://www.peertopublic.com/](https://www.peertopublic.com/)
+
+- **Refresh Connections**
+  COVID safe dating [https://apps.apple.com/us/app/refresh-connections/id6502037766](https://apps.apple.com/us/app/refresh-connections/id6502037766)
+
+- **PeoplesCDC**
+  [https://peoplescdc.org/](https://peoplescdc.org/)
+
+- **Worldometer**
+  [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
+
+- **CDC National Wasterwater**
+  [https://www.cdc.gov/nwss/rv/COVID19-nationaltrend.html](https://www.cdc.gov/nwss/rv/COVID19-nationaltrend.html)
 
 ### Blogs
 - **LetsAir** [https://letsair.org/](https://letsair.org/)
