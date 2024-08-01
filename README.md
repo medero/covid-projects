@@ -70,6 +70,10 @@ This repository is a curated list of interesting and impactful projects related 
 - **Vapor Warehouse - Risk Estimator**
   Assess the risk of viral transmission in indoor spaces using the Wells-Riley model. [https://thememeticist.github.io/VaporWarehouse/](https://thememeticist.github.io/VaporWarehouse/)
 
+- **Verily Wastewater**
+  Wastewater data [https://verily.com/solutions/public-health/wastewater](https://verily.com/solutions/public-health/wastewater)
+
+
 ### Blogs
 - **LetsAir** [https://letsair.org/](https://letsair.org/)
 - **See the Air** [https://seetheair.org/](https://seetheair.org/)
