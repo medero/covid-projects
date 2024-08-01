@@ -61,6 +61,9 @@ This repository is a curated list of interesting and impactful projects related 
 - **COVID Can I do it?**
   COVID risk assessment for various activities (archive/defunt) [https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/](https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/)
 
+- **LongCovidStudies**
+  A list of the most recent long covid studies [https://longcovidstudies.net/](https://longcovidstudies.net/)
+
 ### Blogs
 - **LetsAir** [https://letsair.org/](https://letsair.org/)
 - **See the Air** [https://seetheair.org/](https://seetheair.org/)
