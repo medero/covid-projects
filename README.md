@@ -61,6 +61,10 @@ This repository is a curated list of interesting and impactful projects related 
 - **COVID Can I do it?**
   COVID risk assessment for various activities (archive/defunt) [https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/](https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/)
 
+### Blogs
+- **LetsAir** [https://letsair.org/](https://letsair.org/)
+- **See the Air** [https://seetheair.org/](https://seetheair.org/)
+
 ## License
 
 This list is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). See the [LICENSE](LICENSE) file for more details.
