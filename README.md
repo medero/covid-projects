@@ -67,6 +67,9 @@ This repository is a curated list of interesting and impactful projects related 
 - **Balvi Fund**
   A scientific investment and direct gifting fund for deploying quickly to high-value COVID projects [https://www.balvi.io/](https://www.balvi.io/)
 
+- **Vapor Warehouse - Risk Estimator**
+  Assess the risk of viral transmission in indoor spaces using the Wells-Riley model. [https://thememeticist.github.io/VaporWarehouse/](https://thememeticist.github.io/VaporWarehouse/)
+
 ### Blogs
 - **LetsAir** [https://letsair.org/](https://letsair.org/)
 - **See the Air** [https://seetheair.org/](https://seetheair.org/)
