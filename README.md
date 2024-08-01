@@ -64,6 +64,9 @@ This repository is a curated list of interesting and impactful projects related 
 - **LongCovidStudies**
   A list of the most recent long covid studies [https://longcovidstudies.net/](https://longcovidstudies.net/)
 
+- **Balvi Fund**
+  A scientific investment and direct gifting fund for deploying quickly to high-value COVID projects [https://www.balvi.io/](https://www.balvi.io/)
+
 ### Blogs
 - **LetsAir** [https://letsair.org/](https://letsair.org/)
 - **See the Air** [https://seetheair.org/](https://seetheair.org/)
