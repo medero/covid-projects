@@ -30,9 +30,8 @@ This repository is a curated list of interesting and impactful projects related 
   Website: [https://www.ravenapp.org/cleanair](https://www.ravenapp.org/cleanair)
 
 - **CO2 Trackers**  
-  A list of COVID mask blocs/organizations providing air purifiers.  
-  Website: [https://covidactionmap.org/](https://covidactionmap.org/)
-  https://co2trackers.com/
+  A co2 tracking website by https://x.com/ariccio
+  Website: [https://co2trackers.com/](https://co2trackers.com/)
 
 - **CO2Kuki**  
   URL: TODO
@@ -93,6 +92,32 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **CDC National Wasterwater**
   [https://www.cdc.gov/nwss/rv/COVID19-nationaltrend.html](https://www.cdc.gov/nwss/rv/COVID19-nationaltrend.html)
+
+- **Zine**
+  [https://newlevant.com/COVIDzine](https://newlevant.com/COVIDzine)
+
+- **COVIDRiskTool**
+  [https://www.covidairbornerisk.com/](https://www.covidairbornerisk.com/)
+
+- **OSPE Air Quality Calculator**
+  [https://ospe-calc.herokuapp.com/Air_Changes_-_Ventilation](https://ospe-calc.herokuapp.com/Air_Changes_-_Ventilation)
+
+### Co2 Sensors
+
+- **Aircoda**
+  [https://www.aircoda.com/](https://www.aircoda.com/)
+
+- **Airspot Health**
+  [https://airspothealth.com/](https://airspothealth.com/)
+
+- **Aranet**
+  [https://aranet.com/en/home](https://aranet.com/en/home)
+
+- **CO2.click**
+  [https://co2.click/](https://co2.click/)
+
+- **Cleanairkits**
+  [https://www.cleanairkits.com/](https://www.cleanairkits.com/)
 
 ### Blogs
 - **LetsAir** [https://letsair.org/](https://letsair.org/)
