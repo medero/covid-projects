@@ -102,6 +102,15 @@ This repository is a curated list of interesting and impactful projects related 
 - **OSPE Air Quality Calculator**
   [https://ospe-calc.herokuapp.com/Air_Changes_-_Ventilation](https://ospe-calc.herokuapp.com/Air_Changes_-_Ventilation)
 
+- **Corsi Rosenthal Foundation**
+  [https://corsirosenthalfoundation.org/](https://corsirosenthalfoundation.org/)
+
+- **Turnto**
+  [https://www.turnto.ai/](https://www.turnto.ai/)
+
+- **Virus.sucks**
+  [https://virus.sucks/](https://virus.sucks/)
+
 ### Co2 Sensors
 
 - **Aircoda**
