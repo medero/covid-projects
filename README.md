@@ -111,6 +111,10 @@ This repository is a curated list of interesting and impactful projects related 
 - **Virus.sucks**
   [https://virus.sucks/](https://virus.sucks/)
 
+- **C19.life**
+  [https://www.c19.life/](https://www.c19.life/)
+
+
 ### Co2 Sensors
 
 - **Aircoda**
