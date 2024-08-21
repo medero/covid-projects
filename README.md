@@ -132,6 +132,9 @@ This repository is a curated list of interesting and impactful projects related 
 - **Cleanairkits**
   [https://www.cleanairkits.com/](https://www.cleanairkits.com/)
 
+- **DYI CO2 monitors primarily for schools**
+  [https://github.com/oseiler2/CO2Monitor](https://github.com/oseiler2/CO2Monitor)  
+
 ### Blogs
 - **LetsAir** [https://letsair.org/](https://letsair.org/)
 - **See the Air** [https://seetheair.org/](https://seetheair.org/)
