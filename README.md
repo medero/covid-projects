@@ -34,7 +34,7 @@ This repository is a curated list of interesting and impactful projects related 
   Website: [https://co2trackers.com/](https://co2trackers.com/)
 
 - **CO2Kuki**  
-  URL: TODO
+  URL: [https://twitter.com/co2kuki](https://twitter.com/co2kuki)
 
 ### Clean Air Organizations / Mask Blocs
 
@@ -115,7 +115,7 @@ This repository is a curated list of interesting and impactful projects related 
   [https://www.c19.life/](https://www.c19.life/)
 
 
-### Co2 Sensors
+### Co2 Sensors / Products
 
 - **Aircoda**
   [https://www.aircoda.com/](https://www.aircoda.com/)
@@ -131,6 +131,12 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Cleanairkits**
   [https://www.cleanairkits.com/](https://www.cleanairkits.com/)
+
+- **Airthings**
+  [https://www.airthings.com/](https://www.airthings.com/)
+
+- **Airvalent**
+  [https://airvalent.com/](https://airvalent.com/)
 
 ### Blogs
 - **LetsAir** [https://letsair.org/](https://letsair.org/)
