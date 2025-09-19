@@ -14,21 +14,15 @@ This repository is a curated list of interesting and impactful projects related 
 
 #### CO2 Trackers
 
-- **Breathesafe**  
-  Website: [https://www.breathesafe.xyz/#/](https://www.breathesafe.xyz/#/)
+- **Breathesafe**  [https://www.breathesafe.xyz/#/](https://www.breathesafe.xyz/#/)
 
-- **IndoorCo2map**  
-  Website: [https://indoorco2map.com/](https://indoorco2map.com/)
+- **IndoorCo2map**  [https://indoorco2map.com/](https://indoorco2map.com/)
 
-- **RavenApp - CleanAir**  
-  Website: [https://www.ravenapp.org/cleanair](https://www.ravenapp.org/cleanair)
+- **RavenApp - CleanAir** [https://www.ravenapp.org/cleanair](https://www.ravenapp.org/cleanair)
 
-- **CO2 Trackers**  
-  A co2 tracking website by https://x.com/ariccio
-  Website: [https://co2trackers.com/](https://co2trackers.com/)
+- **CO2 Trackers** [https://co2trackers.com/](https://co2trackers.com/)
 
-- **CO2Kuki**  
-  URL: [https://twitter.com/co2kuki](https://twitter.com/co2kuki)
+- **CO2Kuki** [https://twitter.com/co2kuki](https://twitter.com/co2kuki)
 
 ### Organizations / Mask Blocs
 
@@ -36,11 +30,7 @@ This repository is a curated list of interesting and impactful projects related 
   A list of COVID mask blocs/organizations providing air purifiers.  
   Website: [https://covidactionmap.org/](https://covidactionmap.org/)
 
-- **CleanAirClub**  
-  Website: [https://cleanairclub.org/](https://cleanairclub.org/)
-
-- **CleanAirClub - Gear Borrowing App**  
-  An upcoming app to track gear swapping.
+- **CleanAirClub**  [https://cleanairclub.org/](https://cleanairclub.org/)
 
 - **Corsi Rosenthal Foundation**
   [https://corsirosenthalfoundation.org/](https://corsirosenthalfoundation.org/)
@@ -52,6 +42,8 @@ This repository is a curated list of interesting and impactful projects related 
 - **Polybio** [https://polybio.org/](https://polybio.org/)
 
 ### Wastewater sampling
+
+- **PMC19** [https://www.pmc19.com/data/index.php](https://www.pmc19.com/data/index.php)
 
 - **Marc Johnson** [https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html](https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html)
 
@@ -76,6 +68,8 @@ This repository is a curated list of interesting and impactful projects related 
 - **What COVID does to the body** [https://www.panaccindex.info/p/what-covid-19-does-to-the-body-eighth](https://www.panaccindex.info/p/what-covid-19-does-to-the-body-eighth)
 
 - **You have to life your life** [https://youhavetoliveyour.life/](https://youhavetoliveyour.life/)
+
+- **COVID Research & implications** [https://docs.google.com/document/d/1XbGCZ5NtwvNb0Z2fFzQYnKT96Ij79cNw1GA47rhShMo/edit?pli=1&tab=t.0](https://docs.google.com/document/d/1XbGCZ5NtwvNb0Z2fFzQYnKT96Ij79cNw1GA47rhShMo/edit?pli=1&tab=t.0)
 
 ## Trials
 
@@ -184,6 +178,12 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Zine**
   [https://newlevant.com/COVIDzine](https://newlevant.com/COVIDzine)
+
+- **What therapists need to know: COVID-19** [https://covid-for-therapists.my.canva.site/](https://covid-for-therapists.my.canva.site/)
+
+- **What therapists need to know: COVID-19 (Slideshow)**  [https://tinyurl.com/3fvzwp4a](https://tinyurl.com/3fvzwp4a)
+
+- **Lola Germs Reference List** [https://www.dropbox.com/scl/fi/d4dzdprw7rrcdsii6xvlq/Lola-Germs-Reference-List-light-mode.pdf?rlkey=ufy6cp1kq7qd1b6ovhko938o1&e=2&st=oettjgvf&dl=0](https://www.dropbox.com/scl/fi/d4dzdprw7rrcdsii6xvlq/Lola-Germs-Reference-List-light-mode.pdf?rlkey=ufy6cp1kq7qd1b6ovhko938o1&e=2&st=oettjgvf&dl=0)
 
 
 ### Podcasts
