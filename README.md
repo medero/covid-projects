@@ -39,6 +39,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Polybio** [https://polybio.org/](https://polybio.org/)
 
+- **John snow project** [https://johnsnowproject.org/](https://johnsnowproject.org/)
+
 ### Wastewater sampling
 
 - **PMC19** [https://www.pmc19.com/data/index.php](https://www.pmc19.com/data/index.php)
@@ -68,6 +70,10 @@ This repository is a curated list of interesting and impactful projects related 
 - **You have to life your life** [https://youhavetoliveyour.life/](https://youhavetoliveyour.life/)
 
 - **COVID Research & implications** [https://docs.google.com/document/d/1XbGCZ5NtwvNb0Z2fFzQYnKT96Ij79cNw1GA47rhShMo/edit?pli=1&tab=t.0](https://docs.google.com/document/d/1XbGCZ5NtwvNb0Z2fFzQYnKT96Ij79cNw1GA47rhShMo/edit?pli=1&tab=t.0)
+
+- **For Doctors** [https://covidfordoctors.org/](https://covidfordoctors.org/)
+
+- **What Covid Does** [https://sites.google.com/view/c-19resources/home?authuser=0](https://sites.google.com/view/c-19resources/home?authuser=0)
 
 ## Trials
 
@@ -124,7 +130,13 @@ This repository is a curated list of interesting and impactful projects related 
 - **Virus.sucks**
   [https://virus.sucks/](https://virus.sucks/)
 
+### Providers
+- **HelpForLong COVID** [https://helpforlongcovid.com/](https://helpforlongcovid.com/)
 
+### Masks
+  **The Astounding Physics of Masks** [https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s](https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s)
+
+  **Why we mask** [https://laurellynnleake.com/WhyWeMask/](https://laurellynnleake.com/WhyWeMask/)
 
 ### Co2 Sensors / Products
 
@@ -133,6 +145,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Airspot Health**
   [https://airspothealth.com/](https://airspothealth.com/)
+
+- **Airgradient** [https://www.airgradient.com/](https://www.airgradient.com/)
 
 - **Aranet**
   [https://aranet.com/en/home](https://aranet.com/en/home)
@@ -154,10 +168,12 @@ This repository is a curated list of interesting and impactful projects related 
 - **DYI CO2 monitors primarily for schools**
   [https://github.com/oseiler2/CO2Monitor](https://github.com/oseiler2/CO2Monitor)  
 
+
 ### Blogs
 - **LetsAir** [https://letsair.org/](https://letsair.org/)
 - **See the Air** [https://seetheair.org/](https://seetheair.org/)
 - **PeerToPublic** [https://www.peertopublic.com/](https://www.peertopublic.com/)
+- **The Gauntlet** [https://www.thegauntlet.news/](https://www.thegauntlet.news/)
 
 
 ### School Initiatives
@@ -192,11 +208,17 @@ This repository is a curated list of interesting and impactful projects related 
 - **Lola Germs Reference List** [https://www.dropbox.com/scl/fi/d4dzdprw7rrcdsii6xvlq/Lola-Germs-Reference-List-light-mode.pdf?rlkey=ufy6cp1kq7qd1b6ovhko938o1&e=2&st=oettjgvf&dl=0](https://www.dropbox.com/scl/fi/d4dzdprw7rrcdsii6xvlq/Lola-Germs-Reference-List-light-mode.pdf?rlkey=ufy6cp1kq7qd1b6ovhko938o1&e=2&st=oettjgvf&dl=0)
 
 
+- **Covid posters** [https://drive.google.com/drive/u/0/folders/1NptYhWsy4IsnfQOgWDtHnJ9CScQ5Y0ol](https://drive.google.com/drive/u/0/folders/1NptYhWsy4IsnfQOgWDtHnJ9CScQ5Y0ol)
+
 ### Podcasts
 - **PublicHealthIsDead** [https://www.publichealthisdead.com/](https://www.publichealthisdead.com/)
 
 - **MitigationMedia** [https://linktr.ee/mitigationmedia](https://linktr.ee/mitigationmedia)
 
+
+### Cafes/Establishments
+
+- **ApricotTreeCafe** [https://www.apricottreecafe.com/](https://www.apricottreecafe.com/)
 
 ## License
 
