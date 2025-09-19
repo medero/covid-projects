@@ -111,13 +111,13 @@ This repository is a curated list of interesting and impactful projects related 
 
 ### Archived/Inactive
 - **COVID Can I do it?**
-  COVID risk assessment for various activities (archive/defunt) [https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/](https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/)
+  COVID risk assessment for various activities (archive/defunt) [covidcanidoit.com](https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/)
 
 
 ### Connections
 
 - **Refresh Connections**
-  COVID safe dating [https://apps.apple.com/us/app/refresh-connections/id6502037766](https://apps.apple.com/us/app/refresh-connections/id6502037766)
+  COVID safe dating [Refresh Connections](https://apps.apple.com/us/app/refresh-connections/id6502037766)
 
 
 ### Case counts
@@ -134,9 +134,9 @@ This repository is a curated list of interesting and impactful projects related 
 - **HelpForLong COVID** [https://helpforlongcovid.com/](https://helpforlongcovid.com/)
 
 ### Masks
-  **The Astounding Physics of Masks** [https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s](https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s)
+  - **The Astounding Physics of Masks** [https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s](https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s)
 
-  **Why we mask** [https://laurellynnleake.com/WhyWeMask/](https://laurellynnleake.com/WhyWeMask/)
+  - **Why we mask** [https://laurellynnleake.com/WhyWeMask/](https://laurellynnleake.com/WhyWeMask/)
 
 ### Co2 Sensors / Products
 
@@ -205,10 +205,10 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **What therapists need to know: COVID-19 (Slideshow)**  [https://tinyurl.com/3fvzwp4a](https://tinyurl.com/3fvzwp4a)
 
-- **Lola Germs Reference List** [https://www.dropbox.com/scl/fi/d4dzdprw7rrcdsii6xvlq/Lola-Germs-Reference-List-light-mode.pdf?rlkey=ufy6cp1kq7qd1b6ovhko938o1&e=2&st=oettjgvf&dl=0](https://www.dropbox.com/scl/fi/d4dzdprw7rrcdsii6xvlq/Lola-Germs-Reference-List-light-mode.pdf?rlkey=ufy6cp1kq7qd1b6ovhko938o1&e=2&st=oettjgvf&dl=0)
+- **Lola Germs Reference List** [Lola Germs Reference List](https://www.dropbox.com/scl/fi/d4dzdprw7rrcdsii6xvlq/Lola-Germs-Reference-List-light-mode.pdf?rlkey=ufy6cp1kq7qd1b6ovhko938o1&e=2&st=oettjgvf&dl=0)
 
 
-- **Covid posters** [https://drive.google.com/drive/u/0/folders/1NptYhWsy4IsnfQOgWDtHnJ9CScQ5Y0ol](https://drive.google.com/drive/u/0/folders/1NptYhWsy4IsnfQOgWDtHnJ9CScQ5Y0ol)
+- **Covid posters** [COVID Posters](https://drive.google.com/drive/u/0/folders/1NptYhWsy4IsnfQOgWDtHnJ9CScQ5Y0ol)
 
 ### Podcasts
 - **PublicHealthIsDead** [https://www.publichealthisdead.com/](https://www.publichealthisdead.com/)
