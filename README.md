@@ -2,12 +2,6 @@
 
 This repository is a curated list of interesting and impactful projects related to COVID-19. These initiatives aim to improve air quality, track COVID-related data, and provide valuable resources for individuals and communities.
 
-## Projects
-
-### Long COVID Reachout
-
-- **LongCovidMoonshot - Call Guide**  
-  Website: [https://longcovidmoonshot.com/call-guide](https://longcovidmoonshot.com/call-guide)
 
 #### Air Filters / Venue Information
 
