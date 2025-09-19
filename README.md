@@ -47,9 +47,9 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **AirSupportProject** [https://airsupportproject.com/](https://airsupportproject.com/)
 
-- **Polybio** [https://polybio.org/](https://polybio.org/)
+- **PublicHealthActionNetwork** [https://publichealthactionnetwork.org/](https://publichealthactionnetwork.org/)
 
-- **Amatica Health** [https://amaticahealth.com/](https://amaticahealth.com/)
+- **Polybio** [https://polybio.org/](https://polybio.org/)
 
 ### Wastewater sampling
 
@@ -184,8 +184,16 @@ This repository is a curated list of interesting and impactful projects related 
 - **PeoplesCDC**
   [https://peoplescdc.org/](https://peoplescdc.org/)
 
+- **CleanAirCrew** [https://cleanaircrew.org/](https://cleanaircrew.org/)
+
 - **Zine**
   [https://newlevant.com/COVIDzine](https://newlevant.com/COVIDzine)
+
+
+### Podcasts
+- **PublicHealthIsDead** [https://www.publichealthisdead.com/](https://www.publichealthisdead.com/)
+
+- **MitigationMedia** [https://linktr.ee/mitigationmedia](https://linktr.ee/mitigationmedia)
 
 
 ## License
