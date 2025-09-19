@@ -5,11 +5,9 @@ This repository is a curated list of interesting and impactful projects related 
 
 #### Air Filters / Venue Information
 
-- **Clean Air Stars**  
-  Website: [https://cleanairstars.com/](https://cleanairstars.com/)
+- **Clean Air Stars**  [https://cleanairstars.com/](https://cleanairstars.com/)
 
-- **Air Support Project**  
-  Website: [https://airsupportproject.com/](https://airsupportproject.com/)
+- **Air Support Project**  [https://airsupportproject.com/](https://airsupportproject.com/)
 
 - **Spreadsheet of best air purifiers** [https://tinyurl.com/nzbdwhwb](https://tinyurl.com/nzbdwhwb)
 
@@ -28,9 +26,7 @@ This repository is a curated list of interesting and impactful projects related 
 
 ### Organizations / Mask Blocs
 
-- **CovidActionMap**  
-  A list of COVID mask blocs/organizations providing air purifiers.  
-  Website: [https://covidactionmap.org/](https://covidactionmap.org/)
+- **CovidActionMap**  [https://covidactionmap.org/](https://covidactionmap.org/)
 
 - **CleanAirClub**  [https://cleanairclub.org/](https://cleanairclub.org/)
 
@@ -172,6 +168,8 @@ This repository is a curated list of interesting and impactful projects related 
 - **School district IAQ Map** [https://schools.co2kuki.com/map](https://schools.co2kuki.com/map)
 
 ### Misc
+
+- **Its Airborne** [https://itsairborne.com/](https://itsairborne.com/)
 
 - **PeoplesCDC**
   [https://peoplescdc.org/](https://peoplescdc.org/)
