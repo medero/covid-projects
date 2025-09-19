@@ -11,6 +11,8 @@ This repository is a curated list of interesting and impactful projects related 
 - **Air Support Project**  
   Website: [https://airsupportproject.com/](https://airsupportproject.com/)
 
+- **Spreadsheet of best air purifiers** [https://tinyurl.com/nzbdwhwb](https://tinyurl.com/nzbdwhwb)
+
 
 #### CO2 Trackers
 
