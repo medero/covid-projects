@@ -45,7 +45,7 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **PMC19** [https://www.pmc19.com/data/index.php](https://www.pmc19.com/data/index.php)
 
-- **Marc Johnson** [https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html](https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html)
+- **Marc Johnson** [Viruses found in wastewater by deep sequencing](https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html)
 
 - **Biobot**
   Wastewater data [https://biobot.io/data/](https://biobot.io/data/)
