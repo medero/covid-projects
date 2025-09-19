@@ -167,7 +167,13 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **School district IAQ Map** [https://schools.co2kuki.com/map](https://schools.co2kuki.com/map)
 
+- **COVID Safety for Schools** [https://www.covidsafetyforschools.org/primer](https://www.covidsafetyforschools.org/primer)
+
 ### Misc
+
+- **Why should we care about a virus with a "99.8% survival rate"?** [https://tinyurl.com/COVIDrealImpact](https://tinyurl.com/COVIDrealImpact)
+
+- **First 12 months of COVID timeline** [https://www.nature.com/articles/s41577-021-00522-1](https://www.nature.com/articles/s41577-021-00522-1)
 
 - **Its Airborne** [https://itsairborne.com/](https://itsairborne.com/)
 
