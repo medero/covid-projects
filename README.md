@@ -42,59 +42,71 @@ This repository is a curated list of interesting and impactful projects related 
   A list of COVID mask blocs/organizations providing air purifiers.  
   Website: [https://covidactionmap.org/](https://covidactionmap.org/)
 
-
 - **CleanAirClub**  
   Website: [https://cleanairclub.org/](https://cleanairclub.org/)
 
 - **CleanAirClub - Gear Borrowing App**  
   An upcoming app to track gear swapping.
 
-### Misc
+- **Corsi Rosenthal Foundation**
+  [https://corsirosenthalfoundation.org/](https://corsirosenthalfoundation.org/)
+
+### Research
+
+  **Polybio** [https://polybio.org/](https://polybio.org/)
+  **Amatica Health** [https://amaticahealth.com/](https://amaticahealth.com/)
+
+### Wastewater sampling
+
+-- **Marc Johnson** [https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html](https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html)
 
 - **Biobot**
   Wastewater data [https://biobot.io/data/](https://biobot.io/data/)
 
-- **CoRiCal**
-  Long COVID calculator [https://corical.immunisationcoalition.org.au/longcovid](https://corical.immunisationcoalition.org.au/longcovid)
-
-- **COVID Can I do it?**
-  COVID risk assessment for various activities (archive/defunt) [https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/](https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/)
-
-- **LongCovidStudies**
-  A list of the most recent long covid studies [https://longcovidstudies.net/](https://longcovidstudies.net/)
-
-- **Balvi Fund**
-  A scientific investment and direct gifting fund for deploying quickly to high-value COVID projects [https://www.balvi.io/](https://www.balvi.io/)
-
-- **Vapor Warehouse - Risk Estimator**
-  Assess the risk of viral transmission in indoor spaces using the Wells-Riley model. [https://thememeticist.github.io/VaporWarehouse/](https://thememeticist.github.io/VaporWarehouse/)
-
 - **Verily Wastewater**
   Wastewater data [https://verily.com/solutions/public-health/wastewater](https://verily.com/solutions/public-health/wastewater)
-
-- **AfterParty19**
-  COVID Contact Tracing for events [https://afterparty19.info/](https://afterparty19.info/)
-
-- **microCOVID**
-  Estimate COVID risk for customizable situations [https://www.microcovid.org/](https://www.microcovid.org/)
-
-- **PeerToPublic**
-  [https://www.peertopublic.com/](https://www.peertopublic.com/)
-
-- **Refresh Connections**
-  COVID safe dating [https://apps.apple.com/us/app/refresh-connections/id6502037766](https://apps.apple.com/us/app/refresh-connections/id6502037766)
-
-- **PeoplesCDC**
-  [https://peoplescdc.org/](https://peoplescdc.org/)
-
-- **Worldometer**
-  [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
 
 - **CDC National Wasterwater**
   [https://www.cdc.gov/nwss/rv/COVID19-nationaltrend.html](https://www.cdc.gov/nwss/rv/COVID19-nationaltrend.html)
 
-- **Zine**
-  [https://newlevant.com/COVIDzine](https://newlevant.com/COVIDzine)
+
+### Literature/Study collections
+
+- **LitCOVID** [https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
+
+- **Covid-Studies** [https://covid-studies.org/](https://covid-studies.org/)
+
+- **C19.life** [https://www.c19.life/](https://www.c19.life/)
+
+- **What COVID does to the body** [https://www.panaccindex.info/p/what-covid-19-does-to-the-body-eighth](https://www.panaccindex.info/p/what-covid-19-does-to-the-body-eighth)
+
+- **You have to life your life** [https://youhavetoliveyour.life/](https://youhavetoliveyour.life/)
+
+## Trials
+
+- **LongCovidStudies**
+  A list of the most recent long covid studies [https://longcovidstudies.net/](https://longcovidstudies.net/)
+
+- **Turnto**
+  [https://www.turnto.ai/](https://www.turnto.ai/)
+
+
+### Contact Tracing
+
+- **AfterParty19**
+  COVID Contact Tracing for events [https://afterparty19.info/](https://afterparty19.info/)
+
+
+### Calculators
+
+- **CoRiCal**
+  Long COVID calculator [https://corical.immunisationcoalition.org.au/longcovid](https://corical.immunisationcoalition.org.au/longcovid)
+
+- **Vapor Warehouse - Risk Estimator**
+  Assess the risk of viral transmission in indoor spaces using the Wells-Riley model. [https://thememeticist.github.io/VaporWarehouse/](https://thememeticist.github.io/VaporWarehouse/)
+
+- **microCOVID**
+  Estimate COVID risk for customizable situations [https://www.microcovid.org/](https://www.microcovid.org/)
 
 - **COVIDRiskTool**
   [https://www.covidairbornerisk.com/](https://www.covidairbornerisk.com/)
@@ -102,17 +114,33 @@ This repository is a curated list of interesting and impactful projects related 
 - **OSPE Air Quality Calculator**
   [https://ospe-calc.herokuapp.com/Air_Changes_-_Ventilation](https://ospe-calc.herokuapp.com/Air_Changes_-_Ventilation)
 
-- **Corsi Rosenthal Foundation**
-  [https://corsirosenthalfoundation.org/](https://corsirosenthalfoundation.org/)
 
-- **Turnto**
-  [https://www.turnto.ai/](https://www.turnto.ai/)
+### Funding
+
+- **Balvi Fund**
+  A scientific investment and direct gifting fund for deploying quickly to high-value COVID projects [https://www.balvi.io/](https://www.balvi.io/)
+
+### Archived/Inactive
+- **COVID Can I do it?**
+  COVID risk assessment for various activities (archive/defunt) [https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/](https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/)
+
+
+### Connections
+
+- **Refresh Connections**
+  COVID safe dating [https://apps.apple.com/us/app/refresh-connections/id6502037766](https://apps.apple.com/us/app/refresh-connections/id6502037766)
+
+
+### Case counts
+
+- **Worldometer**
+  [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
+
+### Testing
 
 - **Virus.sucks**
   [https://virus.sucks/](https://virus.sucks/)
 
-- **C19.life**
-  [https://www.c19.life/](https://www.c19.life/)
 
 
 ### Co2 Sensors / Products
@@ -138,10 +166,33 @@ This repository is a curated list of interesting and impactful projects related 
 - **Airvalent**
   [https://airvalent.com/](https://airvalent.com/)
 
+- **DYI CO2 monitors primarily for schools**
+  [https://github.com/oseiler2/CO2Monitor](https://github.com/oseiler2/CO2Monitor)  
+
 ### Blogs
 - **LetsAir** [https://letsair.org/](https://letsair.org/)
 - **See the Air** [https://seetheair.org/](https://seetheair.org/)
+- **PeerToPublic** [https://www.peertopublic.com/](https://www.peertopublic.com/)
+
+
+### School Initiatives
+- **CleanAirAllies** [https://cleanairallies.org/](https://cleanairallies.org/)
+
+- **Clean Air For Kids** [https://www.cleanairforkids.co.uk/](https://www.cleanairforkids.co.uk/)
+
+### Misc
+
+- **PeoplesCDC**
+  [https://peoplescdc.org/](https://peoplescdc.org/)
+
+- **Zine**
+  [https://newlevant.com/COVIDzine](https://newlevant.com/COVIDzine)
+
 
 ## License
 
 This list is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). See the [LICENSE](LICENSE) file for more details.
+
+
+- air support project
+- smarter air
