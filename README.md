@@ -36,7 +36,7 @@ This repository is a curated list of interesting and impactful projects related 
 - **CO2Kuki**  
   URL: [https://twitter.com/co2kuki](https://twitter.com/co2kuki)
 
-### Clean Air Organizations / Mask Blocs
+### Organizations / Mask Blocs
 
 - **CovidActionMap**  
   A list of COVID mask blocs/organizations providing air purifiers.  
@@ -51,14 +51,15 @@ This repository is a curated list of interesting and impactful projects related 
 - **Corsi Rosenthal Foundation**
   [https://corsirosenthalfoundation.org/](https://corsirosenthalfoundation.org/)
 
-### Research
+- **AirSupportProject** [https://airsupportproject.com/](https://airsupportproject.com/)
 
-  **Polybio** [https://polybio.org/](https://polybio.org/)
-  **Amatica Health** [https://amaticahealth.com/](https://amaticahealth.com/)
+- **Polybio** [https://polybio.org/](https://polybio.org/)
+
+- **Amatica Health** [https://amaticahealth.com/](https://amaticahealth.com/)
 
 ### Wastewater sampling
 
--- **Marc Johnson** [https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html](https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html)
+- **Marc Johnson** [https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html](https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html)
 
 - **Biobot**
   Wastewater data [https://biobot.io/data/](https://biobot.io/data/)
@@ -166,6 +167,8 @@ This repository is a curated list of interesting and impactful projects related 
 - **Airvalent**
   [https://airvalent.com/](https://airvalent.com/)
 
+- **Smarterhepa** [https://www.smarterhepa.com/](https://www.smarterhepa.com/)
+
 - **DYI CO2 monitors primarily for schools**
   [https://github.com/oseiler2/CO2Monitor](https://github.com/oseiler2/CO2Monitor)  
 
@@ -180,6 +183,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Clean Air For Kids** [https://www.cleanairforkids.co.uk/](https://www.cleanairforkids.co.uk/)
 
+- **School district IAQ Map** [https://schools.co2kuki.com/map](https://schools.co2kuki.com/map)
+
 ### Misc
 
 - **PeoplesCDC**
@@ -192,7 +197,3 @@ This repository is a curated list of interesting and impactful projects related 
 ## License
 
 This list is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). See the [LICENSE](LICENSE) file for more details.
-
-
-- air support project
-- smarter air
