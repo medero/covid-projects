@@ -3,7 +3,7 @@
 This repository is a curated list of interesting and impactful projects related to COVID-19. These initiatives aim to improve air quality, track COVID-related data, and provide valuable resources for individuals and communities.
 
 
-#### Air Filters / Venue Information
+### Air Filters / Venue Information
 
 - **Clean Air Stars**  [https://cleanairstars.com/](https://cleanairstars.com/)
 
@@ -12,7 +12,7 @@ This repository is a curated list of interesting and impactful projects related 
 - **Spreadsheet of best air purifiers** [https://tinyurl.com/nzbdwhwb](https://tinyurl.com/nzbdwhwb)
 
 
-#### CO2 Trackers
+### CO2 Trackers
 
 - **Breathesafe**  [https://www.breathesafe.xyz/#/](https://www.breathesafe.xyz/#/)
 
