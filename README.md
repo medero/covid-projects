@@ -82,10 +82,6 @@ This repository is a curated list of interesting and impactful projects related 
 - **LongCovidStudies**
   A list of the most recent long covid studies [https://longcovidstudies.net/](https://longcovidstudies.net/)
 
-- **Turnto**
-  [https://www.turnto.ai/](https://www.turnto.ai/)
-
-
 ### Contact Tracing
 
 - **AfterParty19**
