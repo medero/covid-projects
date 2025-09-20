@@ -41,6 +41,10 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **John snow project** [https://johnsnowproject.org/](https://johnsnowproject.org/)
 
+- **PLRC** [https://patientresearchcovid19.com/](https://patientresearchcovid19.com/)
+
+-- **GoAQS** [https://goaqs.org/](https://goaqs.org/)
+
 ### Wastewater sampling
 
 - **PMC19** [https://www.pmc19.com/data/index.php](https://www.pmc19.com/data/index.php)
@@ -176,6 +180,7 @@ This repository is a curated list of interesting and impactful projects related 
 - **See the Air** [https://seetheair.org/](https://seetheair.org/)
 - **PeerToPublic** [https://www.peertopublic.com/](https://www.peertopublic.com/)
 - **The Gauntlet** [https://www.thegauntlet.news/](https://www.thegauntlet.news/)
+- **Sick Times** [https://thesicktimes.org/](https://thesicktimes.org/)
 
 
 ### School Initiatives
@@ -226,8 +231,17 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Lola Germs Reference List** [Lola Germs Reference List](https://www.dropbox.com/scl/fi/d4dzdprw7rrcdsii6xvlq/Lola-Germs-Reference-List-light-mode.pdf?rlkey=ufy6cp1kq7qd1b6ovhko938o1&e=2&st=oettjgvf&dl=0)
 
+- **NotRecovered** [https://notrecovered.org/](https://notrecovered.org/)
 
 - **Covid posters** [COVID Posters](https://drive.google.com/drive/u/0/folders/1NptYhWsy4IsnfQOgWDtHnJ9CScQ5Y0ol)
+
+- **Safeinside** [https://safeinside.co.uk/](https://safeinside.co.uk/)
+
+- **CovidSociety** [https://covidsociety.ca/](https://covidsociety.ca/)
+
+- **Aotearoa Covid Action** [https://covidaction.nz/en/](https://covidaction.nz/en/)
+
+- **Coronawahrheit** [https://coronawahrheit.com/](https://coronawahrheit.com/)
 
 ### Podcasts
 - **PublicHealthIsDead** [https://www.publichealthisdead.com/](https://www.publichealthisdead.com/)
