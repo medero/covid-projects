@@ -185,11 +185,22 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **COVID Safety for Schools** [https://www.covidsafetyforschools.org/primer](https://www.covidsafetyforschools.org/primer)
 
+- **SafeAirSchools** [https://www.safeairschools.org/](https://www.safeairschools.org/)
+
+### Raindrop
+
+- **Aquarius16 - Pandemic Info** [https://raindrop.io/Aquarius16/covid-information-37136152](https://raindrop.io/Aquarius16/covid-information-37136152)
+- **JW_Lists - COVID Lists** [https://raindrop.io/JW_Lists/covid-lists-30427555](https://raindrop.io/JW_Lists/covid-lists-30427555)
+
+- **Lauraallee** [https://raindrop.io/laurieallee](https://raindrop.io/laurieallee)
+
 ### Misc
 
 - **Why should we care about a virus with a "99.8% survival rate"?** [https://tinyurl.com/COVIDrealImpact](https://tinyurl.com/COVIDrealImpact)
 
 - **First 12 months of COVID timeline** [https://www.nature.com/articles/s41577-021-00522-1](https://www.nature.com/articles/s41577-021-00522-1)
+
+- **LongCovidCampaign** [https://www.longcovidcampaign.org/](https://www.longcovidcampaign.org/)
 
 - **Its Airborne** [https://itsairborne.com/](https://itsairborne.com/)
 
