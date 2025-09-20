@@ -73,7 +73,14 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **For Doctors** [https://covidfordoctors.org/](https://covidfordoctors.org/)
 
-- **What Covid Does** [https://sites.google.com/view/c-19resources/home?authuser=0](https://sites.google.com/view/c-19resources/home?authuser=0)
+- **What Covid Does** [What Covid Does](https://sites.google.com/view/c-19resources/home?authuser=0)
+
+- **Sam Rhode** [http://instagram.com/sam_rhode](http://instagram.com/sam_rhode)
+
+### Linktree/Beacons
+
+- [https://beacons.ai/wanderingkayli](https://beacons.ai/wanderingkayli)
+- [https://linktr.ee/learnaboutlongcovid](https://linktr.ee/learnaboutlongcovid)
 
 ## Trials
 
@@ -193,6 +200,10 @@ This repository is a curated list of interesting and impactful projects related 
 - **JW_Lists - COVID Lists** [https://raindrop.io/JW_Lists/covid-lists-30427555](https://raindrop.io/JW_Lists/covid-lists-30427555)
 
 - **Lauraallee** [https://raindrop.io/laurieallee](https://raindrop.io/laurieallee)
+
+
+### Linktree
+
 
 ### Misc
 
