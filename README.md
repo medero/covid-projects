@@ -77,11 +77,6 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Sam Rhode** [http://instagram.com/sam_rhode](http://instagram.com/sam_rhode)
 
-### Linktree/Beacons
-
-- [https://beacons.ai/wanderingkayli](https://beacons.ai/wanderingkayli)
-- [https://linktr.ee/learnaboutlongcovid](https://linktr.ee/learnaboutlongcovid)
-
 ## Trials
 
 - **LongCovidStudies**
@@ -201,8 +196,10 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Lauraallee** [https://raindrop.io/laurieallee](https://raindrop.io/laurieallee)
 
+### Linktree/Beacons
 
-### Linktree
+- [https://beacons.ai/wanderingkayli](https://beacons.ai/wanderingkayli)
+- [https://linktr.ee/learnaboutlongcovid](https://linktr.ee/learnaboutlongcovid)
 
 
 ### Misc
@@ -241,6 +238,9 @@ This repository is a curated list of interesting and impactful projects related 
 ### Cafes/Establishments
 
 - **ApricotTreeCafe** [https://www.apricottreecafe.com/](https://www.apricottreecafe.com/)
+
+### Books
+- **Immune** [https://www.amazon.com/Immune-Journey-Mysterious-System-Keeps/dp/0593241312](https://www.amazon.com/Immune-Journey-Mysterious-System-Keeps/dp/0593241312)
 
 ## License
 
