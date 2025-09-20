@@ -3,13 +3,17 @@
 This repository is a curated list of interesting and impactful projects related to COVID-19. These initiatives aim to improve air quality, track COVID-related data, and provide valuable resources for individuals and communities.
 
 
-### Air Filters / Venue Information
+### Air Filters / Purifier Reviews
 
 - **Clean Air Stars**  [https://cleanairstars.com/](https://cleanairstars.com/)
 
 - **Air Support Project**  [https://airsupportproject.com/](https://airsupportproject.com/)
 
-- **Spreadsheet of best air purifiers** [https://tinyurl.com/nzbdwhwb](https://tinyurl.com/nzbdwhwb)
+- **Spreadsheet of best air purifiers** [Spreadsheet of best air purifiers](https://tinyurl.com/nzbdwhwb)
+
+- **HouseFresh** [https://housefresh.com/](https://housefresh.com/)
+
+- **Breathesafeair** [https://breathesafeair.com/](https://breathesafeair.com/)
 
 
 ### CO2 Trackers
@@ -22,7 +26,7 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **CO2 Trackers** [https://co2trackers.com/](https://co2trackers.com/)
 
-- **CO2Kuki** [https://twitter.com/co2kuki](https://twitter.com/co2kuki)
+- **CO2Kuki** [https://co2kuki.com/](https://co2kuki.com/)
 
 ### Organizations / Mask Blocs
 
@@ -43,9 +47,17 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **PLRC** [https://patientresearchcovid19.com/](https://patientresearchcovid19.com/)
 
--- **GoAQS** [https://goaqs.org/](https://goaqs.org/)
+- **GoAQS** [https://goaqs.org/](https://goaqs.org/)
+
+- **Aotearoa Covid Action** [https://covidaction.nz/en/](https://covidaction.nz/en/)
+
+- **LongCovidFamilies** [https://longcovidfamilies.org/](https://longcovidfamilies.org/)
+
+- **WHN** [https://whn.global/](https://whn.global/)
 
 ### Wastewater sampling
+
+- **WastewaterSCAN WW** [https://data.wastewaterscan.org/](https://data.wastewaterscan.org/)
 
 - **PMC19** [https://www.pmc19.com/data/index.php](https://www.pmc19.com/data/index.php)
 
@@ -59,6 +71,15 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **CDC National Wasterwater**
   [https://www.cdc.gov/nwss/rv/COVID19-nationaltrend.html](https://www.cdc.gov/nwss/rv/COVID19-nationaltrend.html)
+
+### Positivity rates / case counts
+
+- **Urgent Care Positivity Rates** [https://www.experityhealth.com/urgent-care-visit-data/](https://www.experityhealth.com/urgent-care-visit-data/)
+
+- **Worldometer**
+  [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
+
+ - **COVID hospitalization data** [https://www.cdc.gov/covid/php/surveillance/index.html](https://www.cdc.gov/covid/php/surveillance/index.html)
 
 
 ### Literature/Study collections
@@ -81,10 +102,23 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Sam Rhode** [http://instagram.com/sam_rhode](http://instagram.com/sam_rhode)
 
+- **Aquarius16 - Pandemic Info** [https://raindrop.io/Aquarius16/covid-information-37136152](https://raindrop.io/Aquarius16/covid-information-37136152)
+- **JW_Lists - COVID Lists** [https://raindrop.io/JW_Lists/covid-lists-30427555](https://raindrop.io/JW_Lists/covid-lists-30427555)
+
+- **Lauraallee** [https://raindrop.io/laurieallee](https://raindrop.io/laurieallee)
+
+- **Coronawahrheit** [https://coronawahrheit.com/](https://coronawahrheit.com/)
+
+## Aerosol science
+
+- **Al Haddrell** [https://m.youtube.com/@AlHaddrell/videos](https://m.youtube.com/@AlHaddrell/videos)
+
 ## Trials
 
 - **LongCovidStudies**
   A list of the most recent long covid studies [https://longcovidstudies.net/](https://longcovidstudies.net/)
+
+  - **C19Early** [https://c19early.org/](https://c19early.org/)
 
 ### Contact Tracing
 
@@ -115,21 +149,12 @@ This repository is a curated list of interesting and impactful projects related 
 - **Balvi Fund**
   A scientific investment and direct gifting fund for deploying quickly to high-value COVID projects [https://www.balvi.io/](https://www.balvi.io/)
 
-### Archived/Inactive
-- **COVID Can I do it?**
-  COVID risk assessment for various activities (archive/defunt) [covidcanidoit.com](https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/)
-
 
 ### Connections
 
 - **Refresh Connections**
   COVID safe dating [Refresh Connections](https://apps.apple.com/us/app/refresh-connections/id6502037766)
 
-
-### Case counts
-
-- **Worldometer**
-  [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
 
 ### Testing
 
@@ -143,6 +168,8 @@ This repository is a curated list of interesting and impactful projects related 
   - **The Astounding Physics of Masks** [https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s](https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s)
 
   - **Why we mask** [https://laurellynnleake.com/WhyWeMask/](https://laurellynnleake.com/WhyWeMask/)
+
+  - **Respirator fit testing** [https://m.youtube.com/channel/UCIh6HRdQGVy7VR4Lq22xbng](https://m.youtube.com/channel/UCIh6HRdQGVy7VR4Lq22xbng)
 
 ### Co2 Sensors / Products
 
@@ -194,18 +221,10 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **SafeAirSchools** [https://www.safeairschools.org/](https://www.safeairschools.org/)
 
-### Raindrop
-
-- **Aquarius16 - Pandemic Info** [https://raindrop.io/Aquarius16/covid-information-37136152](https://raindrop.io/Aquarius16/covid-information-37136152)
-- **JW_Lists - COVID Lists** [https://raindrop.io/JW_Lists/covid-lists-30427555](https://raindrop.io/JW_Lists/covid-lists-30427555)
-
-- **Lauraallee** [https://raindrop.io/laurieallee](https://raindrop.io/laurieallee)
-
 ### Linktree/Beacons
 
 - [https://beacons.ai/wanderingkayli](https://beacons.ai/wanderingkayli)
 - [https://linktr.ee/learnaboutlongcovid](https://linktr.ee/learnaboutlongcovid)
-
 
 ### Misc
 
@@ -225,9 +244,9 @@ This repository is a curated list of interesting and impactful projects related 
 - **Zine**
   [https://newlevant.com/COVIDzine](https://newlevant.com/COVIDzine)
 
-- **What therapists need to know: COVID-19** [https://covid-for-therapists.my.canva.site/](https://covid-for-therapists.my.canva.site/)
+- **What therapists need to know: COVID-19** [What therapists need to know: COVID-19](https://covid-for-therapists.my.canva.site/)
 
-- **What therapists need to know: COVID-19 (Slideshow)**  [https://tinyurl.com/3fvzwp4a](https://tinyurl.com/3fvzwp4a)
+- **What therapists need to know: COVID-19 (Slideshow)**  [What therapists need to know: COVID-19 Slideshow](https://tinyurl.com/3fvzwp4a)
 
 - **Lola Germs Reference List** [Lola Germs Reference List](https://www.dropbox.com/scl/fi/d4dzdprw7rrcdsii6xvlq/Lola-Germs-Reference-List-light-mode.pdf?rlkey=ufy6cp1kq7qd1b6ovhko938o1&e=2&st=oettjgvf&dl=0)
 
@@ -239,14 +258,19 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **CovidSociety** [https://covidsociety.ca/](https://covidsociety.ca/)
 
-- **Aotearoa Covid Action** [https://covidaction.nz/en/](https://covidaction.nz/en/)
+- **Data Report** [https://www.youtube.com/channel/UCabkYozJ7EPxvvWtIvJbIDg?app=desktop](https://www.youtube.com/channel/UCabkYozJ7EPxvvWtIvJbIDg?app=desktop)
 
-- **Coronawahrheit** [https://coronawahrheit.com/](https://coronawahrheit.com/)
+- **React19** [https://react19.org/](https://react19.org/)
+
+- **COVID19resources** [https://covid19resources.ca/covid-hazard-index/](https://covid19resources.ca/covid-hazard-index/)
+
 
 ### Podcasts
 - **PublicHealthIsDead** [https://www.publichealthisdead.com/](https://www.publichealthisdead.com/)
 
 - **MitigationMedia** [https://linktr.ee/mitigationmedia](https://linktr.ee/mitigationmedia)
+
+- **Voices of Long COVID** [https://www.buzzsprout.com/2303322](https://www.buzzsprout.com/2303322)
 
 
 ### Cafes/Establishments
@@ -255,6 +279,14 @@ This repository is a curated list of interesting and impactful projects related 
 
 ### Books
 - **Immune** [https://www.amazon.com/Immune-Journey-Mysterious-System-Keeps/dp/0593241312](https://www.amazon.com/Immune-Journey-Mysterious-System-Keeps/dp/0593241312)
+
+### Subreddits
+- **ZeroCovidCommunity** [https://www.reddit.com/r/ZeroCovidCommunity/](https://www.reddit.com/r/ZeroCovidCommunity/)
+
+### Archived/Inactive
+- **COVID Can I do it?**
+  COVID risk assessment for various activities (archive/defunt) [covidcanidoit.com](https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/)
+
 
 ## License
 
