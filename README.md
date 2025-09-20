@@ -28,9 +28,11 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **CO2Kuki** [https://co2kuki.com/](https://co2kuki.com/)
 
-### Organizations / Mask Blocs
+### Organizations / Mask Bloc Directory
 
 - **CovidActionMap**  [https://covidactionmap.org/](https://covidactionmap.org/)
+
+- **MaskBloc** [https://maskbloc.org/](https://maskbloc.org/)
 
 - **CleanAirClub**  [https://cleanairclub.org/](https://cleanairclub.org/)
 
@@ -108,6 +110,8 @@ This repository is a curated list of interesting and impactful projects related 
 - **Lauraallee** [https://raindrop.io/laurieallee](https://raindrop.io/laurieallee)
 
 - **Coronawahrheit** [https://coronawahrheit.com/](https://coronawahrheit.com/)
+
+- **AvoidThePlague** [https://avoid-plague.info/](https://avoid-plague.info/)
 
 ## Aerosol science
 
