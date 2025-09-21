@@ -3,17 +3,17 @@
 This repository is a curated list of interesting and impactful projects related to COVID-19. These initiatives aim to improve air quality, track COVID-related data, and provide valuable resources for individuals and communities.
 
 
-### Air Filters / Purifier Reviews
+### Air Filters / Purifier Reviews / Measuring IAQ
 
 - **Clean Air Stars** Assess indoor aerosol transmission risk / air filter recommendation tool [https://cleanairstars.com/](https://cleanairstars.com/)
-
-- **Air Support Project** Nonprofit with an IAQ app / purifier in development [https://airsupportproject.com/](https://airsupportproject.com/)
 
 - **Spreadsheet of best air purifiers** Spreadsheet of best air purifiers [https://tinyurl.com/nzbdwhwb](https://tinyurl.com/nzbdwhwb)
 
 - **HouseFresh** Air purifier reviews [https://housefresh.com/](https://housefresh.com/)
 
 - **Breathesafeair** Air purifier / monitors / mask reviews [https://breathesafeair.com/](https://breathesafeair.com/)
+
+- **AirAwareness App** Web app to calculate pathogen risk [https://airsupportproject.com/airwareness/](https://airsupportproject.com/airwareness/)
 
 
 ### CO2 Trackers
@@ -39,6 +39,8 @@ This repository is a curated list of interesting and impactful projects related 
 - **CleanAirClub** The original air purifier lending library based in Chicago [https://cleanairclub.org/](https://cleanairclub.org/)
 
 - **Corsi Rosenthal Foundation** Not for profit corporation promoting clean indoor air and supplying air purifiers to those in need [https://corsirosenthalfoundation.org/](https://corsirosenthalfoundation.org/)
+
+- **Air Support Project** Nonprofit with an IAQ app / purifier in development [https://airsupportproject.com/](https://airsupportproject.com/)
 
 - **PublicHealthActionNetwork** Organization aiming to build a collaborative global movement to improve air quality [https://publichealthactionnetwork.org/](https://publichealthactionnetwork.org/)
 
