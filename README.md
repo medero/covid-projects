@@ -15,7 +15,7 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **AirAwareness App** Web app to calculate pathogen risk [https://airsupportproject.com/airwareness/](https://airsupportproject.com/airwareness/)
 
-- **Portable Air Filters** CleanAirStars Portable Air Filters [https://docs.google.com/spreadsheets/d/17j6FZwvqHRFkGoH5996u5JdR7tk4_7fNuTxAK7kc4Fk/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/17j6FZwvqHRFkGoH5996u5JdR7tk4_7fNuTxAK7kc4Fk/edit?gid=0#gid=0)
+- **Portable Air Filters** CleanAirStars Portable Air Filters [https://tinyurl.com/u4xu4nkr](https://docs.google.com/spreadsheets/d/17j6FZwvqHRFkGoH5996u5JdR7tk4_7fNuTxAK7kc4Fk/edit?gid=0#gid=0)
 
 
 ### CO2 Trackers
@@ -40,7 +40,7 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **CleanAirClub** The original air purifier lending library based in Chicago [https://cleanairclub.org/](https://cleanairclub.org/)
 
-- **Corsi Rosenthal Foundation** Not for profit corporation promoting clean indoor air and supplying air purifiers to those in need [https://corsirosenthalfoundation.org/](https://corsirosenthalfoundation.org/)
+- **Corsi Rosenthal Foundation** Nonprofit promoting clean indoor air and supplying air purifiers [https://corsirosenthalfoundation.org/](https://corsirosenthalfoundation.org/)
 
 - **Air Support Project** Nonprofit with an IAQ app / purifier in development [https://airsupportproject.com/](https://airsupportproject.com/)
 
@@ -52,11 +52,11 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **PLRC** Patient-led research and advocacy for #LongCovid and infection-associated chronic conditions [https://patientresearchcovid19.com/](https://patientresearchcovid19.com/)
 
-- **GoAQS** Open Air Quality Standards (GO AQS) are here to establish a new benchmark for clean air – a set of transparent, science-backed standards that all nations and integrators can strive for [https://goaqs.org/](https://goaqs.org/)
+- **GoAQS** Open Air Quality Standards (GO AQS) are here to establish a new benchmark for clean air [https://goaqs.org/](https://goaqs.org/)
 
-- **LongCovidFamilies** Supporting families and raising awareness by providing comprehensive support to families navigating the challenges of pediatric Long Covid.  [https://longcovidfamilies.org/](https://longcovidfamilies.org/)
+- **LongCovidFamilies** Supporting families and raising awareness to families navigating the challenges of pediatric Long Covid.  [https://longcovidfamilies.org/](https://longcovidfamilies.org/)
 
-- **WHN** A network devoted to global compassion—working together to inspire collective action through science for a safer, healthier world [https://whn.global/](https://whn.global/)
+- **WHN** A global network devoted to inspire collective action through science for a safer, healthier world [https://whn.global/](https://whn.global/)
 
 ### Wastewater sampling
 
@@ -95,7 +95,7 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **You have to life your life** Question/answer based guide for COVID-19 [https://youhavetoliveyour.life/](https://youhavetoliveyour.life/)
 
-- **COVID Research & implications** Topic based COVID-19 round-up [https://docs.google.com/document/d/1XbGCZ5NtwvNb0Z2fFzQYnKT96Ij79cNw1GA47rhShMo/edit?pli=1&tab=t.0](https://docs.google.com/document/d/1XbGCZ5NtwvNb0Z2fFzQYnKT96Ij79cNw1GA47rhShMo/edit?pli=1&tab=t.0)
+- **COVID Research & implications** Topic based COVID-19 round-up [https://tinyurl.com/yme4ed5j](https://docs.google.com/document/d/1XbGCZ5NtwvNb0Z2fFzQYnKT96Ij79cNw1GA47rhShMo/edit?pli=1&tab=t.0)
 
 - **For Doctors** Presentation on COVID for doctors by Dr. Nancy Malek [https://covidfordoctors.org/](https://covidfordoctors.org/)
 
@@ -205,6 +205,7 @@ This repository is a curated list of interesting and impactful projects related 
 - **PeerToPublic** Interactive, visual articles dedicated to informing the public and guiding policymakers by deepening understanding of today's health and science landscape. [https://www.peertopublic.com/](https://www.peertopublic.com/)
 - **The Gauntlet** COVID Information, Updates, and Commentary [https://www.thegauntlet.news/](https://www.thegauntlet.news/)
 - **Sick Times** Chronicling the Long COVID crisis [https://thesicktimes.org/](https://thesicktimes.org/)
+- **Weekly COVID news** [https://drruth.substack.com/](https://drruth.substack.com/)
 
 
 ### School Initiatives
