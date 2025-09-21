@@ -42,17 +42,15 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Polybio** Organization focusing on solving Long COVID and ME/CFS [https://polybio.org/](https://polybio.org/)
 
-- **John Snow project** [https://johnsnowproject.org/](https://johnsnowproject.org/)
+- **John Snow project** Reliable, honest information on COVID-19 from public health, clinical, and research experts [https://johnsnowproject.org/](https://johnsnowproject.org/)
 
-- **PLRC** [https://patientresearchcovid19.com/](https://patientresearchcovid19.com/)
+- **PLRC** Patient-led research and advocacy for #LongCovid and infection-associated chronic conditions [https://patientresearchcovid19.com/](https://patientresearchcovid19.com/)
 
-- **GoAQS** [https://goaqs.org/](https://goaqs.org/)
+- **GoAQS** Open Air Quality Standards (GO AQS) are here to establish a new benchmark for clean air – a set of transparent, science-backed standards that all nations and integrators can strive for [https://goaqs.org/](https://goaqs.org/)
 
-- **Aotearoa Covid Action** [https://covidaction.nz/en/](https://covidaction.nz/en/)
+- **LongCovidFamilies** Supporting families and raising awareness by providing comprehensive support to families navigating the challenges of pediatric Long Covid.  [https://longcovidfamilies.org/](https://longcovidfamilies.org/)
 
-- **LongCovidFamilies** [https://longcovidfamilies.org/](https://longcovidfamilies.org/)
-
-- **WHN** [https://whn.global/](https://whn.global/)
+- **WHN** A network devoted to global compassion—working together to inspire collective action through science for a safer, healthier world [https://whn.global/](https://whn.global/)
 
 ### Wastewater sampling
 
