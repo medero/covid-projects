@@ -18,9 +18,9 @@ This repository is a curated list of interesting and impactful projects related 
 
 ### CO2 Trackers
 
-- **Breathesafe** Webapp for indoor CO2 risk / mask fit recommendation [https://www.breathesafe.xyz/#/](https://www.breathesafe.xyz/#/)
-
 - **IndoorCo2map** Native iOS/Android app for Aranet/Airvalent/Airsport/Inkbird IAM-T1 [https://indoorco2map.com/](https://indoorco2map.com/)
+
+- **Breathesafe** Webapp for indoor CO2 risk / mask fit recommendation [https://www.breathesafe.xyz/#/](https://www.breathesafe.xyz/#/)
 
 - **RavenApp - CleanAir** Webapp for indoor CO2 risk [https://www.ravenapp.org/cleanair](https://www.ravenapp.org/cleanair)
 
@@ -83,23 +83,23 @@ This repository is a curated list of interesting and impactful projects related 
 
 ### Literature/Study collections
 
-- **LitCOVID** [https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
+- **LitCOVID** LitCovid is the most comprehensive resource on the subject, providing a central access to 467,702 (and growing ) relevant articles in PubMed [https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
 
-- **Covid-Studies** [https://covid-studies.org/](https://covid-studies.org/)
+- **Covid-Studies** Curated timeline of COVID-19 studies [https://covid-studies.org/](https://covid-studies.org/)
 
-- **C19life** [https://www.c19.life/](https://www.c19.life/)
+- **C19life** Visual overview of COVID-19 studies with topic specific links [https://www.c19.life/](https://www.c19.life/)
 
-- **What COVID does to the body** [https://www.panaccindex.info/p/what-covid-19-does-to-the-body-eighth](https://www.panaccindex.info/p/what-covid-19-does-to-the-body-eighth)
+- **What COVID does to the body** Comprehensive yearly round-up of COVID-19 studies [https://www.panaccindex.info/p/what-covid-19-does-to-the-body-eighth](https://www.panaccindex.info/p/what-covid-19-does-to-the-body-eighth)
 
-- **You have to life your life** [https://youhavetoliveyour.life/](https://youhavetoliveyour.life/)
+- **You have to life your life** Question/answer based guide for COVID-19 [https://youhavetoliveyour.life/](https://youhavetoliveyour.life/)
 
-- **COVID Research & implications** [https://docs.google.com/document/d/1XbGCZ5NtwvNb0Z2fFzQYnKT96Ij79cNw1GA47rhShMo/edit?pli=1&tab=t.0](https://docs.google.com/document/d/1XbGCZ5NtwvNb0Z2fFzQYnKT96Ij79cNw1GA47rhShMo/edit?pli=1&tab=t.0)
+- **COVID Research & implications** Topic based COVID-19 round-up [https://docs.google.com/document/d/1XbGCZ5NtwvNb0Z2fFzQYnKT96Ij79cNw1GA47rhShMo/edit?pli=1&tab=t.0](https://docs.google.com/document/d/1XbGCZ5NtwvNb0Z2fFzQYnKT96Ij79cNw1GA47rhShMo/edit?pli=1&tab=t.0)
 
-- **For Doctors** [https://covidfordoctors.org/](https://covidfordoctors.org/)
+- **For Doctors** Presentation on COVID for doctors by Dr. Nancy Malek [https://covidfordoctors.org/](https://covidfordoctors.org/)
 
-- **What Covid Does** [https://sites.google.com/view/c-19resources/home?authuser=0](https://sites.google.com/view/c-19resources/home?authuser=0)
+- **What Covid Does** Compilation of reputed sources for COVID-19 [https://sites.google.com/view/c-19resources/home?authuser=0](https://sites.google.com/view/c-19resources/home?authuser=0)
 
-- **Sam Rhode** [http://instagram.com/sam_rhode](http://instagram.com/sam_rhode)
+- **Sam Rhode** Frequently updated topic-based COVID-19 study posts by Sam Rhode [http://instagram.com/sam_rhode](http://instagram.com/sam_rhode)
 
 - **Aquarius16 - Pandemic Info** [https://raindrop.io/Aquarius16/covid-information-37136152](https://raindrop.io/Aquarius16/covid-information-37136152)
 - **JW_Lists - COVID Lists** [https://raindrop.io/JW_Lists/covid-lists-30427555](https://raindrop.io/JW_Lists/covid-lists-30427555)
