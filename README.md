@@ -28,6 +28,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **CO2Kuki** In development Android app for CO2 risk [https://co2kuki.com/](https://co2kuki.com/)
 
+- **UCritter** [https://www.ucritter.com/](https://www.ucritter.com/)
+
 ### Organizations / Mask Bloc Directory
 
 - **CovidActionMap** Map of covid action groups worldwide [https://covidactionmap.org/](https://covidactionmap.org/)
@@ -262,6 +264,7 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **COVID19resources** [https://covid19resources.ca/covid-hazard-index/](https://covid19resources.ca/covid-hazard-index/)
 
+- **BerlinBuyersClub** [https://www.berlinbuyersclub.com/](https://www.berlinbuyersclub.com/)
 
 ### Podcasts
 - **PublicHealthIsDead** [https://www.publichealthisdead.com/](https://www.publichealthisdead.com/)
