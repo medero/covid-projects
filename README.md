@@ -3,7 +3,7 @@
 This repository is a curated list of interesting and impactful projects related to COVID-19. These initiatives aim to improve air quality, track COVID-related data, and provide valuable resources for individuals and communities.
 
 
-### Air Filters / Purifier Reviews / Measuring IAQ
+### IAQ Calculation / Air Purifier reviews
 
 - **Clean Air Stars** Assess indoor aerosol transmission risk / air filter recommendation tool [https://cleanairstars.com/](https://cleanairstars.com/)
 
@@ -14,6 +14,8 @@ This repository is a curated list of interesting and impactful projects related 
 - **Breathesafeair** Air purifier / monitors / mask reviews [https://breathesafeair.com/](https://breathesafeair.com/)
 
 - **AirAwareness App** Web app to calculate pathogen risk [https://airsupportproject.com/airwareness/](https://airsupportproject.com/airwareness/)
+
+- **Portable Air Filters** CleanAirStars Portable Air Filters [https://docs.google.com/spreadsheets/d/17j6FZwvqHRFkGoH5996u5JdR7tk4_7fNuTxAK7kc4Fk/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/17j6FZwvqHRFkGoH5996u5JdR7tk4_7fNuTxAK7kc4Fk/edit?gid=0#gid=0)
 
 
 ### CO2 Trackers
@@ -101,25 +103,26 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Sam Rhode** Frequently updated topic-based COVID-19 study posts by Sam Rhode [http://instagram.com/sam_rhode](http://instagram.com/sam_rhode)
 
-- **Aquarius16 - Pandemic Info** [https://raindrop.io/Aquarius16/covid-information-37136152](https://raindrop.io/Aquarius16/covid-information-37136152)
-- **JW_Lists - COVID Lists** [https://raindrop.io/JW_Lists/covid-lists-30427555](https://raindrop.io/JW_Lists/covid-lists-30427555)
+- **Aquarius16 - Pandemic Info** A raindrop collection of studies by Aquarius16 [https://raindrop.io/Aquarius16/covid-information-37136152](https://raindrop.io/Aquarius16/covid-information-37136152)
 
-- **Lauraallee** [https://raindrop.io/laurieallee](https://raindrop.io/laurieallee)
+- **JW_Lists - COVID Lists** A raindrop collection of studies by JW [https://raindrop.io/JW_Lists/covid-lists-30427555](https://raindrop.io/JW_Lists/covid-lists-30427555)
 
-- **Coronawahrheit** [https://coronawahrheit.com/](https://coronawahrheit.com/)
+- **Lauraallee** A raindrop collection of studies by Lauraallee [https://raindrop.io/laurieallee](https://raindrop.io/laurieallee)
 
-- **AvoidThePlague** [https://avoid-plague.info/](https://avoid-plague.info/)
+- **Coronawahrheit** A german collection of studies [https://coronawahrheit.com/](https://coronawahrheit.com/)
+
+- **AvoidThePlague** An easy-to-use roundup of resources pertaining to the COVID-19 pandemic [https://avoid-plague.info/](https://avoid-plague.info/)
 
 ## Aerosol science
 
-- **Al Haddrell** [https://m.youtube.com/@AlHaddrell/videos](https://m.youtube.com/@AlHaddrell/videos)
+- **Al Haddrell** Al Haddrell's youtube channel featuring aerosol content [https://m.youtube.com/@AlHaddrell/videos](https://m.youtube.com/@AlHaddrell/videos)
 
 ## Trials
 
 - **LongCovidStudies**
   A list of the most recent long covid studies [https://longcovidstudies.net/](https://longcovidstudies.net/)
 
- - **C19Early** [https://c19early.org/](https://c19early.org/)
+ - **C19Early** COVID-19 treatment: real-time analysis of 6,138 studies [https://c19early.org/](https://c19early.org/)
 
 ### Contact Tracing
 
@@ -138,8 +141,7 @@ This repository is a curated list of interesting and impactful projects related 
 - **microCOVID**
   Estimate COVID risk for customizable situations [https://www.microcovid.org/](https://www.microcovid.org/)
 
-- **COVIDRiskTool**
-  [https://www.covidairbornerisk.com/](https://www.covidairbornerisk.com/)
+- **COVIDRiskTool** COVID-19 Airborne Aerosol Transmission Estimator [https://www.covidairbornerisk.com/](https://www.covidairbornerisk.com/)
 
 - **OSPE Air Quality Calculator**
   [https://ospe-calc.herokuapp.com/Air_Changes_-_Ventilation](https://ospe-calc.herokuapp.com/Air_Changes_-_Ventilation)
@@ -153,50 +155,49 @@ This repository is a curated list of interesting and impactful projects related 
 
 ### Connections
 
-- **Refresh Connections**
-  COVID safe dating [Refresh Connections](https://apps.apple.com/us/app/refresh-connections/id6502037766)
+- **Refresh Connections** Find COVID-safe friendships, romance, virtual connections, jobs, housing, families [Refresh Connections](https://apps.apple.com/us/app/refresh-connections/id6502037766)
 
 
 ### Testing
 
-- **Viru.sucks** Pluslife analyzer [https://virus.sucks/](https://virus.sucks/)
+- **Virussucks** Pluslife analyzer [https://virus.sucks/](https://virus.sucks/)
 
 ### Providers
-- **HelpForLong COVID** [https://helpforlongcovid.com/](https://helpforlongcovid.com/)
+- **HelpForLong COVID** Find care providers who understand Long COVID [https://helpforlongcovid.com/](https://helpforlongcovid.com/)
 
 ### Masks
   - **The Astounding Physics of Masks** The astounding physics of masks [https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s](https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s)
 
-  - **Why we mask** [https://laurellynnleake.com/WhyWeMask/](https://laurellynnleake.com/WhyWeMask/)
+  - **Why we mask** COVID-19 zines/informational graphics [https://laurellynnleake.com/WhyWeMask/](https://laurellynnleake.com/WhyWeMask/)
 
   - **Respirator fit testing** [https://m.youtube.com/channel/UCIh6HRdQGVy7VR4Lq22xbng](https://m.youtube.com/channel/UCIh6HRdQGVy7VR4Lq22xbng)
 
-### Co2 Sensors / Products
+### CO2 Sensors
 
-- **Aircoda**
-  [https://www.aircoda.com/](https://www.aircoda.com/)
+- **Aircoda** A pocket CO2 sensor [https://www.aircoda.com/](https://www.aircoda.com/)
 
-- **Airspot Health**
-  [https://airspothealth.com/](https://airspothealth.com/)
+- **Airspot Health** The smallest CO2 monitor with an Android/iOS app [https://airspothealth.com/](https://airspothealth.com/)
 
-- **Airgradient** [https://www.airgradient.com/](https://www.airgradient.com/)
+- **Airgradient** Indoor/outdoor air quality monitors [https://www.airgradient.com/](https://www.airgradient.com/)
 
-- **Aranet**
-  [https://aranet.com/en/home](https://aranet.com/en/home)
+- **Aranet** The famous and reliable indoor CO2 monitor [https://aranet.com/en/home](https://aranet.com/en/home)
 
-- **CO2Click**
-  [https://co2.click/](https://co2.click/)
+- **CO2Click** An affordable CO2 monitor using Sensirion's miniature CO2 sensor [https://co2.click/](https://co2.click/)
+
+- **Airthings** Indoor air quality monitors [https://www.airthings.com/](https://www.airthings.com/)
+
+
+### Air Purifiers/Filters
 
 - **Cleanairkits**
   [https://www.cleanairkits.com/](https://www.cleanairkits.com/)
 
-- **Airthings**
-  [https://www.airthings.com/](https://www.airthings.com/)
+- **Smarterhepa** [https://www.smarterhepa.com/](https://www.smarterhepa.com/)
 
 - **Airvalent**
   [https://airvalent.com/](https://airvalent.com/)
 
-- **Smarterhepa** [https://www.smarterhepa.com/](https://www.smarterhepa.com/)
+- **Airthings** Indoor air quality monitors [https://www.airthings.com/](https://www.airthings.com/)
 
 - **DYI CO2 monitors primarily for schools**
   [https://github.com/oseiler2/CO2Monitor](https://github.com/oseiler2/CO2Monitor)  
