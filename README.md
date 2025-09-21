@@ -264,6 +264,10 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **BerlinBuyersClub** [https://www.berlinbuyersclub.com/](https://www.berlinbuyersclub.com/)
 
+- **Your Immune System isn't a muscle** [https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/}(https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/)]
+
+- **FRED - Civilian labor force with a disability, 16 years or over** [https://fred.stlouisfed.org/series/LNU01074597](https://fred.stlouisfed.org/series/LNU01074597)
+
 ### Podcasts
 - **PublicHealthIsDead** [https://www.publichealthisdead.com/](https://www.publichealthisdead.com/)
 
