@@ -186,41 +186,37 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Airthings** Indoor air quality monitors [https://www.airthings.com/](https://www.airthings.com/)
 
+- **DYI CO2 monitors primarily for schools** [https://github.com/oseiler2/CO2Monitor](https://github.com/oseiler2/CO2Monitor)  
+
+- **Airvalent** Indoor air quality monitors [https://airvalent.com/](https://airvalent.com/)
 
 ### Air Purifiers/Filters
 
-- **Cleanairkits**
-  [https://www.cleanairkits.com/](https://www.cleanairkits.com/)
+- **Cleanairkits** Next-Gen Corsi-Rosenthal Box & Double-Barrel HEPA [https://www.cleanairkits.com/](https://www.cleanairkits.com/)
 
-- **Smarterhepa** [https://www.smarterhepa.com/](https://www.smarterhepa.com/)
+- **SmarterHepa** Durable, heavy duty air purifiers [https://www.smarterhepa.com/](https://www.smarterhepa.com/)
 
-- **Airvalent**
-  [https://airvalent.com/](https://airvalent.com/)
-
-- **Airthings** Indoor air quality monitors [https://www.airthings.com/](https://www.airthings.com/)
-
-- **DYI CO2 monitors primarily for schools**
-  [https://github.com/oseiler2/CO2Monitor](https://github.com/oseiler2/CO2Monitor)  
+- **Airthings** Airthings air purifiers [https://www.airthings.com/](https://www.airthings.com/)
 
 
 ### Blogs
-- **LetsAir** [https://letsair.org/](https://letsair.org/)
-- **See the Air** [https://seetheair.org/](https://seetheair.org/)
-- **PeerToPublic** [https://www.peertopublic.com/](https://www.peertopublic.com/)
-- **The Gauntlet** [https://www.thegauntlet.news/](https://www.thegauntlet.news/)
-- **Sick Times** [https://thesicktimes.org/](https://thesicktimes.org/)
+- **LetsAir** News, infographics and scientific mediation on indoor air renewal.  [https://letsair.org/](https://letsair.org/)
+- **See the Air** Blog about the dangers of bad indoor/outdoor air [https://seetheair.org/](https://seetheair.org/)
+- **PeerToPublic** Interactive, visual articles dedicated to informing the public and guiding policymakers by deepening understanding of today's health and science landscape. [https://www.peertopublic.com/](https://www.peertopublic.com/)
+- **The Gauntlet** COVID Information, Updates, and Commentary [https://www.thegauntlet.news/](https://www.thegauntlet.news/)
+- **Sick Times** Chronicling the Long COVID crisis [https://thesicktimes.org/](https://thesicktimes.org/)
 
 
 ### School Initiatives
-- **CleanAirAllies** [https://cleanairallies.org/](https://cleanairallies.org/)
+- **CleanAirAllies** CA nonprofit dedicated to improving indoor air quality (IAQ) in PK-12 schools[https://cleanairallies.org/](https://cleanairallies.org/)
 
-- **Clean Air For Kids** [https://www.cleanairforkids.co.uk/](https://www.cleanairforkids.co.uk/)
+- **Clean Air For Kids** Campaign to bring better air quality to the children of Bristol and beyond! Run by @erbrooker and others [https://www.cleanairforkids.co.uk/](https://www.cleanairforkids.co.uk/)
 
-- **School district IAQ Map** [https://schools.co2kuki.com/map](https://schools.co2kuki.com/map)
+- **School District IAQ Map** A map of school districts and IAQ programs they use [https://schools.co2kuki.com/map](https://schools.co2kuki.com/map)
 
-- **COVID Safety for Schools** [https://www.covidsafetyforschools.org/primer](https://www.covidsafetyforschools.org/primer)
+- **COVID Safety for Schools** A 90-minute Primer on COVID Safety For Schools [https://www.covidsafetyforschools.org/primer](https://www.covidsafetyforschools.org/primer)
 
-- **SafeAirSchools** [https://www.safeairschools.org/](https://www.safeairschools.org/)
+- **SafeAirSchools** A parent-led organisation, supported by experts, working to improve air quality in classrooms. Founded in Hampshire [https://www.safeairschools.org/](https://www.safeairschools.org/)
 
 ### Linktree/Beacons
 
@@ -284,6 +280,7 @@ This repository is a curated list of interesting and impactful projects related 
 
 ### Subreddits
 - **ZeroCovidCommunity** [https://www.reddit.com/r/ZeroCovidCommunity/](https://www.reddit.com/r/ZeroCovidCommunity/)
+- **Coronavirus** [https://www.reddit.com/r/Coronavirus/](https://www.reddit.com/r/Coronavirus/)
 
 ### Archived/Inactive
 - **COVID Can I do it?** COVID risk assessment for various activities (archive/defunt) [covidcanidoit.com](https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/)
