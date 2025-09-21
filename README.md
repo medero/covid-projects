@@ -58,19 +58,17 @@ This repository is a curated list of interesting and impactful projects related 
 
 ### Wastewater sampling
 
-- **WastewaterSCAN WW** [https://data.wastewaterscan.org/](https://data.wastewaterscan.org/)
+- **WastewaterSCAN WW** National monitoring effort to provide a comprehensive view of SARS-CoV-2, Influenza A+B, RSV, and other diseases in communities from Stanford University, Emory University and local wastewater and public health officials partner to produce actionable data. [https://data.wastewaterscan.org/](https://data.wastewaterscan.org/)
 
-- **PMC19** [https://www.pmc19.com/data/index.php](https://www.pmc19.com/data/index.php)
+- **PMC19** Pandemic Mitigation Collaborative managed by Dr. Hoerger [https://www.pmc19.com/data/index.php](https://www.pmc19.com/data/index.php)
 
-- **Marc Johnson** [Viruses found in wastewater by deep sequencing](https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html)
+- **Marc Johnson / DHO Lab** Viral monitoring via wastewater deep sequencing for COVID-19 and other viruses[https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html](https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html)
 
-- **Biobot**
-  Wastewater data [https://biobot.io/data/](https://biobot.io/data/)
+- **Biobot** Public health analytics powered by wastewater [https://biobot.io/data/](https://biobot.io/data/)
 
-- **Verily Wastewater**
-  Wastewater data [https://verily.com/solutions/public-health/wastewater](https://verily.com/solutions/public-health/wastewater)
+- **Verily Wastewater** Verily provides quality, fast turnaround wastewater monitoring results for a broad array of pathogens to hundreds of sites across the United States. [https://verily.com/solutions/public-health/wastewater](https://verily.com/solutions/public-health/wastewater)
 
-- **CDC National Wasterwater**
+- **CDC National Wasterwater** CDC's wastewater trends
   [https://www.cdc.gov/nwss/rv/COVID19-nationaltrend.html](https://www.cdc.gov/nwss/rv/COVID19-nationaltrend.html)
 
 ### Positivity rates / case counts
@@ -121,7 +119,7 @@ This repository is a curated list of interesting and impactful projects related 
 - **LongCovidStudies**
   A list of the most recent long covid studies [https://longcovidstudies.net/](https://longcovidstudies.net/)
 
-  - **C19Early** [https://c19early.org/](https://c19early.org/)
+ - **C19Early** [https://c19early.org/](https://c19early.org/)
 
 ### Contact Tracing
 
