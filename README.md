@@ -5,47 +5,44 @@ This repository is a curated list of interesting and impactful projects related 
 
 ### Air Filters / Purifier Reviews
 
-- **Clean Air Stars**  [https://cleanairstars.com/](https://cleanairstars.com/)
+- **Clean Air Stars** Assess indoor aerosol transmission risk / air filter recommendation tool [https://cleanairstars.com/](https://cleanairstars.com/)
 
-- **Air Support Project**  [https://airsupportproject.com/](https://airsupportproject.com/)
+- **Air Support Project** Nonprofit with an IAQ app / purifier in development [https://airsupportproject.com/](https://airsupportproject.com/)
 
-- **Spreadsheet of best air purifiers** [Spreadsheet of best air purifiers](https://tinyurl.com/nzbdwhwb)
+- **Spreadsheet of best air purifiers** Spreadsheet of best air purifiers [https://tinyurl.com/nzbdwhwb](https://tinyurl.com/nzbdwhwb)
 
-- **HouseFresh** [https://housefresh.com/](https://housefresh.com/)
+- **HouseFresh** Air purifier reviews [https://housefresh.com/](https://housefresh.com/)
 
-- **Breathesafeair** [https://breathesafeair.com/](https://breathesafeair.com/)
+- **Breathesafeair** Air purifier / monitors / mask reviews [https://breathesafeair.com/](https://breathesafeair.com/)
 
 
 ### CO2 Trackers
 
-- **Breathesafe**  [https://www.breathesafe.xyz/#/](https://www.breathesafe.xyz/#/)
+- **Breathesafe** Webapp for indoor CO2 risk / mask fit recommendation [https://www.breathesafe.xyz/#/](https://www.breathesafe.xyz/#/)
 
-- **IndoorCo2map**  [https://indoorco2map.com/](https://indoorco2map.com/)
+- **IndoorCo2map** Native iOS/Android app for Aranet/Airvalent/Airsport/Inkbird IAM-T1 [https://indoorco2map.com/](https://indoorco2map.com/)
 
-- **RavenApp - CleanAir** [https://www.ravenapp.org/cleanair](https://www.ravenapp.org/cleanair)
+- **RavenApp - CleanAir** Webapp for indoor CO2 risk [https://www.ravenapp.org/cleanair](https://www.ravenapp.org/cleanair)
 
-- **CO2 Trackers** [https://co2trackers.com/](https://co2trackers.com/)
+- **CO2 Trackers** The original webapp for indoor CO2 risk [https://co2trackers.com/](https://co2trackers.com/)
 
-- **CO2Kuki** [https://co2kuki.com/](https://co2kuki.com/)
+- **CO2Kuki** In development Android app for CO2 risk [https://co2kuki.com/](https://co2kuki.com/)
 
 ### Organizations / Mask Bloc Directory
 
-- **CovidActionMap**  [https://covidactionmap.org/](https://covidactionmap.org/)
+- **CovidActionMap** Map of covid action groups worldwide [https://covidactionmap.org/](https://covidactionmap.org/)
 
-- **MaskBloc** [https://maskbloc.org/](https://maskbloc.org/)
+- **MaskBloc** Directory of mask blocs [https://maskbloc.org/](https://maskbloc.org/)
 
-- **CleanAirClub**  [https://cleanairclub.org/](https://cleanairclub.org/)
+- **CleanAirClub** The original air purifier lending library based in Chicago [https://cleanairclub.org/](https://cleanairclub.org/)
 
-- **Corsi Rosenthal Foundation**
-  [https://corsirosenthalfoundation.org/](https://corsirosenthalfoundation.org/)
+- **Corsi Rosenthal Foundation** Not for profit corporation promoting clean indoor air and supplying air purifiers to those in need [https://corsirosenthalfoundation.org/](https://corsirosenthalfoundation.org/)
 
-- **AirSupportProject** [https://airsupportproject.com/](https://airsupportproject.com/)
+- **PublicHealthActionNetwork** Organization aiming to build a collaborative global movement to improve air quality [https://publichealthactionnetwork.org/](https://publichealthactionnetwork.org/)
 
-- **PublicHealthActionNetwork** [https://publichealthactionnetwork.org/](https://publichealthactionnetwork.org/)
+- **Polybio** Organization focusing on solving Long COVID and ME/CFS [https://polybio.org/](https://polybio.org/)
 
-- **Polybio** [https://polybio.org/](https://polybio.org/)
-
-- **John snow project** [https://johnsnowproject.org/](https://johnsnowproject.org/)
+- **John Snow project** [https://johnsnowproject.org/](https://johnsnowproject.org/)
 
 - **PLRC** [https://patientresearchcovid19.com/](https://patientresearchcovid19.com/)
 
@@ -90,7 +87,7 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Covid-Studies** [https://covid-studies.org/](https://covid-studies.org/)
 
-- **C19.life** [https://www.c19.life/](https://www.c19.life/)
+- **C19life** [https://www.c19.life/](https://www.c19.life/)
 
 - **What COVID does to the body** [https://www.panaccindex.info/p/what-covid-19-does-to-the-body-eighth](https://www.panaccindex.info/p/what-covid-19-does-to-the-body-eighth)
 
@@ -100,7 +97,7 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **For Doctors** [https://covidfordoctors.org/](https://covidfordoctors.org/)
 
-- **What Covid Does** [What Covid Does](https://sites.google.com/view/c-19resources/home?authuser=0)
+- **What Covid Does** [https://sites.google.com/view/c-19resources/home?authuser=0](https://sites.google.com/view/c-19resources/home?authuser=0)
 
 - **Sam Rhode** [http://instagram.com/sam_rhode](http://instagram.com/sam_rhode)
 
@@ -162,14 +159,13 @@ This repository is a curated list of interesting and impactful projects related 
 
 ### Testing
 
-- **Virus.sucks**
-  [https://virus.sucks/](https://virus.sucks/)
+- **Viru.sucks** Pluslife analyzer [https://virus.sucks/](https://virus.sucks/)
 
 ### Providers
 - **HelpForLong COVID** [https://helpforlongcovid.com/](https://helpforlongcovid.com/)
 
 ### Masks
-  - **The Astounding Physics of Masks** [https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s](https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s)
+  - **The Astounding Physics of Masks** The astounding physics of masks [https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s](https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s)
 
   - **Why we mask** [https://laurellynnleake.com/WhyWeMask/](https://laurellynnleake.com/WhyWeMask/)
 
@@ -188,7 +184,7 @@ This repository is a curated list of interesting and impactful projects related 
 - **Aranet**
   [https://aranet.com/en/home](https://aranet.com/en/home)
 
-- **CO2.click**
+- **CO2Click**
   [https://co2.click/](https://co2.click/)
 
 - **Cleanairkits**
@@ -248,9 +244,9 @@ This repository is a curated list of interesting and impactful projects related 
 - **Zine**
   [https://newlevant.com/COVIDzine](https://newlevant.com/COVIDzine)
 
-- **What therapists need to know: COVID-19** [What therapists need to know: COVID-19](https://covid-for-therapists.my.canva.site/)
+- **What therapists need to know: COVID-19** [https://covid-for-therapists.my.canva.site/](https://covid-for-therapists.my.canva.site/)
 
-- **What therapists need to know: COVID-19 (Slideshow)**  [What therapists need to know: COVID-19 Slideshow](https://tinyurl.com/3fvzwp4a)
+- **What therapists need to know: COVID-19 (Slideshow)**  [https://tinyurl.com/3fvzwp4a](https://tinyurl.com/3fvzwp4a)
 
 - **Lola Germs Reference List** [Lola Germs Reference List](https://www.dropbox.com/scl/fi/d4dzdprw7rrcdsii6xvlq/Lola-Germs-Reference-List-light-mode.pdf?rlkey=ufy6cp1kq7qd1b6ovhko938o1&e=2&st=oettjgvf&dl=0)
 
@@ -288,8 +284,7 @@ This repository is a curated list of interesting and impactful projects related 
 - **ZeroCovidCommunity** [https://www.reddit.com/r/ZeroCovidCommunity/](https://www.reddit.com/r/ZeroCovidCommunity/)
 
 ### Archived/Inactive
-- **COVID Can I do it?**
-  COVID risk assessment for various activities (archive/defunt) [covidcanidoit.com](https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/)
+- **COVID Can I do it?** COVID risk assessment for various activities (archive/defunt) [covidcanidoit.com](https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/)
 
 
 ## License
