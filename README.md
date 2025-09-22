@@ -62,9 +62,9 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **CrunchME** Data-informed advocacy to accelerate research on ME/CFS, Long COVID, and other infection-associated chronic conditions [https://crunchme.notion.site/homepage](https://crunchme.notion.site/homepage)
 
-- **AmaticaHealth** [https://amaticahealth.com/](https://amaticahealth.com/)
+- **AmaticaHealth** A data platform for the world's most complex diseases [https://amaticahealth.com/](https://amaticahealth.com/)
 
-- **Renegade Research** [https://www.renegade-research.org/](https://www.renegade-research.org/)
+- **Renegade Research** Patient led nonprofit 501c3 on MECFS and LongCovid [https://www.renegade-research.org/](https://www.renegade-research.org/)
 
 ### Wastewater sampling
 
