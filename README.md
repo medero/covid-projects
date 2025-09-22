@@ -184,6 +184,8 @@ This repository is a curated list of interesting and impactful projects related 
 
   - **Respirator fit testing** [https://m.youtube.com/channel/UCIh6HRdQGVy7VR4Lq22xbng](https://m.youtube.com/channel/UCIh6HRdQGVy7VR4Lq22xbng)
 
+  - **Patient Knowhow** [https://patientknowhow.com](https://patientknowhow.com/)
+
 ### CO2 Sensors
 
 - **Aircoda** A pocket CO2 sensor [https://www.aircoda.com/](https://www.aircoda.com/)
@@ -248,7 +250,7 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **LongCovidCampaign** [https://www.longcovidcampaign.org/](https://www.longcovidcampaign.org/)
 
-- **Its Airborne** [https://itsairborne.com/](https://itsairborne.com/)
+- **Its Airborne** Hepa Filters / Clean Air Delivery Rates [https://itsairborne.com/](https://itsairborne.com/)
 
 - **PeoplesCDC**
   [https://peoplescdc.org/](https://peoplescdc.org/)
@@ -283,6 +285,10 @@ This repository is a curated list of interesting and impactful projects related 
 - **Your Immune System isn't a muscle** [https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/](https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/)
 
 - **FRED - Civilian labor force with a disability, 16 years or over** [https://fred.stlouisfed.org/series/LNU01074597](https://fred.stlouisfed.org/series/LNU01074597)
+
+- **Spreadsheet of IAQ/UVC Companies** Spreadsheet of IAQ/UVC Companies [https://docs.google.com/spreadsheets/d/10VNZbZw6DEOK635SBmZNXXHHc3N7NtNgIGtICKqeEIU/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/10VNZbZw6DEOK635SBmZNXXHHc3N7NtNgIGtICKqeEIU/edit?gid=0#gid=0)
+
+**Harvard healthy buildings** [https://healthybuildings.hsph.harvard.edu/research/indoor-air-quality/](https://healthybuildings.hsph.harvard.edu/research/indoor-air-quality/)
 
 ### Podcasts
 - **PublicHealthIsDead** [https://www.publichealthisdead.com/](https://www.publichealthisdead.com/)
