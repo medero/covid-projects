@@ -60,6 +60,10 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **CrunchME** Data-informed advocacy to accelerate research on ME/CFS, Long COVID, and other infection-associated chronic conditions [https://crunchme.notion.site/homepage](https://crunchme.notion.site/homepage)
 
+- **AmaticaHealth** [https://amaticahealth.com/](https://amaticahealth.com/)
+
+- **Renegade Research** [https://www.renegade-research.org/](https://www.renegade-research.org/)
+
 ### Wastewater sampling
 
 - **WastewaterSCAN WW** National monitoring effort to provide a comprehensive view of SARS-CoV-2, Influenza A+B, RSV, and other diseases in communities from Stanford University, Emory University and local wastewater and public health officials partner to produce actionable data. [https://data.wastewaterscan.org/](https://data.wastewaterscan.org/)
@@ -115,9 +119,13 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **AvoidThePlague** An easy-to-use roundup of resources pertaining to the COVID-19 pandemic [https://avoid-plague.info/](https://avoid-plague.info/)
 
-## Aerosol science
+## Youtube/Videos
 
 - **Al Haddrell** Al Haddrell's youtube channel featuring aerosol content [https://m.youtube.com/@AlHaddrell/videos](https://m.youtube.com/@AlHaddrell/videos)
+
+- **Lolagerms** [https://www.youtube.com/@LolaGerms](https://www.youtube.com/@LolaGerms)
+
+- **PacoOnPause** [https://www.instagram.com/pacoonpause/#](https://www.instagram.com/pacoonpause/#)
 
 ## Trials
 
