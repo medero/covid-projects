@@ -169,6 +169,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Refresh Connections** Find COVID-safe friendships, romance, virtual connections, jobs, housing, families [Refresh Connections](https://apps.apple.com/us/app/refresh-connections/id6502037766)
 
+- **CovidChemistry** [https://www.covid-chemistry.org/](https://www.covid-chemistry.org/)
+
 
 ### Testing
 
@@ -291,6 +293,10 @@ This repository is a curated list of interesting and impactful projects related 
 - **Harvard healthy buildings** [https://healthybuildings.hsph.harvard.edu/research/indoor-air-quality/](https://healthybuildings.hsph.harvard.edu/research/indoor-air-quality/)
 
 - **Maryland Indoor Air Quality Advocates** [https://www.facebook.com/groups/marylandindoorairqualityadvocates/](https://www.facebook.com/groups/marylandindoorairqualityadvocates/)
+
+- **OliviaBelknapTherapy** [https://www.oliviabelknaptherapy.com/covid-resources](https://www.oliviabelknaptherapy.com/covid-resources)
+
+- **Covid Conscious Therapists** [https://www.covidconscioustherapists.com/](https://www.covidconscioustherapists.com/)
 
 ### Podcasts
 - **PublicHealthIsDead** [https://www.publichealthisdead.com/](https://www.publichealthisdead.com/)
