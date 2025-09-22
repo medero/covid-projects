@@ -96,6 +96,8 @@ This repository is a curated list of interesting and impactful projects related 
 
  - **COVID hospitalization data** [https://www.cdc.gov/covid/php/surveillance/index.html](https://www.cdc.gov/covid/php/surveillance/index.html)
 
+ - **COVID-19 Greece** [https://covid19-greece.tk/](https://covid19-greece.tk/)
+
 
 ### Literature/Study collections
 
@@ -126,6 +128,8 @@ This repository is a curated list of interesting and impactful projects related 
 - **Coronawahrheit** A german collection of studies [https://coronawahrheit.com/](https://coronawahrheit.com/)
 
 - **AvoidThePlague** An easy-to-use roundup of resources pertaining to the COVID-19 pandemic [https://avoid-plague.info/](https://avoid-plague.info/)
+
+- **COVID-19 Research** [https://krombopulosmichael.github.io/Covid-19-research/](https://krombopulosmichael.github.io/Covid-19-research/)
 
 ## Youtube/Videos
 
@@ -186,6 +190,8 @@ This repository is a curated list of interesting and impactful projects related 
 - **HelpForLong COVID** Find care providers who understand Long COVID [https://helpforlongcovid.com/](https://helpforlongcovid.com/)
 
 ### Masks
+  - **An essay on how masks can end COVID-19** [https://aatishb.com/maskmath/](https://aatishb.com/maskmath/)
+
   - **The Astounding Physics of Masks** The astounding physics of masks [https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s](https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s)
 
   - **Why we mask** COVID-19 zines/informational graphics [https://laurellynnleake.com/WhyWeMask/](https://laurellynnleake.com/WhyWeMask/)
@@ -326,6 +332,14 @@ This repository is a curated list of interesting and impactful projects related 
 ### Subreddits
 - **ZeroCovidCommunity** [https://www.reddit.com/r/ZeroCovidCommunity/](https://www.reddit.com/r/ZeroCovidCommunity/)
 - **Coronavirus** [https://www.reddit.com/r/Coronavirus/](https://www.reddit.com/r/Coronavirus/)
+
+### COVID-19 Breathalyzers
+- **Polytechnic University of Valencia, University of Valencia** [https://www.sciencedirect.com/science/article/pii/S0039914025006824?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S0039914025006824?via%3Dihub) - IN DEVELOPMENT
+- **UVA** [https://news.vt.edu/articles/2024/02/research-airbornecovidtest.html](https://news.vt.edu/articles/2024/02/research-airbornecovidtest.html) - CONFIRMATION PENDING
+
+- **Washington University in St Louis** [https://www.nature.com/articles/s41467-023-39419-z](https://www.nature.com/articles/s41467-023-39419-z)
+
+- **University of Texas at Austin** [https://www.acs.org/pressroom/newsreleases/2023/march/is-it-covid-19-or-the-flu-new-sensor-could-tell-you-in-10-seconds.html](https://www.acs.org/pressroom/newsreleases/2023/march/is-it-covid-19-or-the-flu-new-sensor-could-tell-you-in-10-seconds.html)
 
 ### Archived/Inactive
 - **COVID Can I do it?** COVID risk assessment for various activities (archive/defunt) [covidcanidoit.com](https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/)
