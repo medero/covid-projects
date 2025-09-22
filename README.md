@@ -298,6 +298,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Covid Conscious Therapists** [https://www.covidconscioustherapists.com/](https://www.covidconscioustherapists.com/)
 
+- **IACI Provider Manual** [https://www.coresinai.org/manual](https://www.coresinai.org/manual)
+
 ### Podcasts
 - **PublicHealthIsDead** [https://www.publichealthisdead.com/](https://www.publichealthisdead.com/)
 
