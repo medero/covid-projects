@@ -17,6 +17,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Portable Air Filters** CleanAirStars Portable Air Filters [https://tinyurl.com/u4xu4nkr](https://docs.google.com/spreadsheets/d/17j6FZwvqHRFkGoH5996u5JdR7tk4_7fNuTxAK7kc4Fk/edit?gid=0#gid=0)
 
+- **Nathalie Ventilation** Air purifier reviews [https://medium.com/@levangelistedelaventilation](https://medium.com/@levangelistedelaventilation)
+
 
 ### CO2 Trackers
 
