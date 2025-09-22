@@ -288,7 +288,9 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Spreadsheet of IAQ/UVC Companies** Spreadsheet of IAQ/UVC Companies [https://docs.google.com/spreadsheets/d/10VNZbZw6DEOK635SBmZNXXHHc3N7NtNgIGtICKqeEIU/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/10VNZbZw6DEOK635SBmZNXXHHc3N7NtNgIGtICKqeEIU/edit?gid=0#gid=0)
 
-**Harvard healthy buildings** [https://healthybuildings.hsph.harvard.edu/research/indoor-air-quality/](https://healthybuildings.hsph.harvard.edu/research/indoor-air-quality/)
+- **Harvard healthy buildings** [https://healthybuildings.hsph.harvard.edu/research/indoor-air-quality/](https://healthybuildings.hsph.harvard.edu/research/indoor-air-quality/)
+
+- **Maryland Indoor Air Quality Advocates** [https://www.facebook.com/groups/marylandindoorairqualityadvocates/](https://www.facebook.com/groups/marylandindoorairqualityadvocates/)
 
 ### Podcasts
 - **PublicHealthIsDead** [https://www.publichealthisdead.com/](https://www.publichealthisdead.com/)
