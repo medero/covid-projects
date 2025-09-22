@@ -58,6 +58,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **WHN** A global network devoted to inspire collective action through science for a safer, healthier world [https://whn.global/](https://whn.global/)
 
+- **CrunchME** Data-informed advocacy to accelerate research on ME/CFS, Long COVID, and other infection-associated chronic conditions [https://crunchme.notion.site/homepage](https://crunchme.notion.site/homepage)
+
 ### Wastewater sampling
 
 - **WastewaterSCAN WW** National monitoring effort to provide a comprehensive view of SARS-CoV-2, Influenza A+B, RSV, and other diseases in communities from Stanford University, Emory University and local wastewater and public health officials partner to produce actionable data. [https://data.wastewaterscan.org/](https://data.wastewaterscan.org/)
@@ -198,6 +200,10 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Airthings** Airthings air purifiers [https://www.airthings.com/](https://www.airthings.com/)
 
+- **Levoitt** Levoitt air purifiers [https://levoit.com/collections/air-purifiers](https://levoit.com/collections/air-purifiers)
+
+- **Medify** Medify air purfiers [https://medifyair.com/collections/all-products](https://medifyair.com/collections/all-products)
+
 
 ### Blogs
 - **LetsAir** News, infographics and scientific mediation on indoor air renewal.  [https://letsair.org/](https://letsair.org/)
@@ -282,6 +288,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 ### Books
 - **Immune** [https://www.amazon.com/Immune-Journey-Mysterious-System-Keeps/dp/0593241312](https://www.amazon.com/Immune-Journey-Mysterious-System-Keeps/dp/0593241312)
+
+- **Airborne** [https://www.amazon.com/Air-Borne-Hidden-History-Life-Breathe/dp/0593473590](https://www.amazon.com/Air-Borne-Hidden-History-Life-Breathe/dp/0593473590)
 
 ### Subreddits
 - **ZeroCovidCommunity** [https://www.reddit.com/r/ZeroCovidCommunity/](https://www.reddit.com/r/ZeroCovidCommunity/)
