@@ -66,7 +66,7 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Renegade Research** Patient led nonprofit 501c3 on MECFS and LongCovid [https://www.renegade-research.org/](https://www.renegade-research.org/)
 
-### Wastewater sampling
+### Wastewater sampling | genome/lineage sequencing
 
 - **WastewaterSCAN WW** National monitoring effort to provide a comprehensive view of SARS-CoV-2, Influenza A+B, RSV, and other diseases in communities from Stanford University, Emory University and local wastewater and public health officials partner to produce actionable data. [https://data.wastewaterscan.org/](https://data.wastewaterscan.org/)
 
@@ -80,6 +80,10 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **CDC National Wasterwater** CDC's wastewater trends
   [https://www.cdc.gov/nwss/rv/COVID19-nationaltrend.html](https://www.cdc.gov/nwss/rv/COVID19-nationaltrend.html)
+
+- **COVID-19 Genomes** [https://github.com/Mike-Honey/covid-19-genomes](https://github.com/Mike-Honey/covid-19-genomes)
+
+- **COV-lineages** [https://github.com/cov-lineages](https://github.com/cov-lineages)
 
 ### Positivity rates / case counts
 
