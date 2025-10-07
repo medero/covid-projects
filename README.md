@@ -131,6 +131,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **COVID-19 Research** [https://krombopulosmichael.github.io/Covid-19-research/](https://krombopulosmichael.github.io/Covid-19-research/)
 
+- **COVID History** [https://covidhistory.org/](https://covidhistory.org/)
+
 ## Youtube/Videos
 
 - **Al Haddrell** Al Haddrell's youtube channel featuring aerosol content [https://m.youtube.com/@AlHaddrell/videos](https://m.youtube.com/@AlHaddrell/videos)
@@ -311,6 +313,10 @@ This repository is a curated list of interesting and impactful projects related 
 - **Covid Conscious Therapists** [https://www.covidconscioustherapists.com/](https://www.covidconscioustherapists.com/)
 
 - **IACI Provider Manual** [https://www.coresinai.org/manual](https://www.coresinai.org/manual)
+
+- **Air Club** [https://www.linkedin.com/company/indoor-air-club/posts/?feedView=all](https://www.linkedin.com/company/indoor-air-club/posts/?feedView=all)
+
+- **SaferAirProject** [https://www.saferairproject.com/](https://www.saferairproject.com/)
 
 ### Podcasts
 - **PublicHealthIsDead** [https://www.publichealthisdead.com/](https://www.publichealthisdead.com/)
