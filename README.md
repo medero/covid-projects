@@ -133,6 +133,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **COVID History** [https://covidhistory.org/](https://covidhistory.org/)
 
+- **COVID Safety resource list** [https://www.patreon.com/posts/huge-free-covid-86871700](https://www.patreon.com/posts/huge-free-covid-86871700)
+
 ## Youtube/Videos
 
 - **Al Haddrell** Al Haddrell's youtube channel featuring aerosol content [https://m.youtube.com/@AlHaddrell/videos](https://m.youtube.com/@AlHaddrell/videos)
