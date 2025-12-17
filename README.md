@@ -2,6 +2,20 @@
 
 This repository is a curated list of interesting and impactful projects related to COVID-19. These initiatives aim to improve air quality, track COVID-related data, and provide valuable resources for individuals and communities.
 
+### Real-time IAQ Detection
+
+#### Funded
+- [https://news.vt.edu/articles/2025/10/eng-clean-indoor-air-research-pandemic-contract.html](https://news.vt.edu/articles/2025/10/eng-clean-indoor-air-research-pandemic-contract.html)
+
+- [https://www.uv.es/uvweb/uv-news/en/news/a-biosensor-is-developed-detect-airborne-viruses-quickly-easily-low-cost-1285973304159/Novetat.html?id=1286451013364&plantilla=UV_Noticies/Page/TPGDetaillNews](https://www.uv.es/uvweb/uv-news/en/news/a-biosensor-is-developed-detect-airborne-viruses-quickly-easily-low-cost-1285973304159/Novetat.html?id=1286451013364&plantilla=UV_Noticies/Page/TPGDetaillNews)
+
+- An amplification-free genetic sensor that sends a tiny electrical signal when it recognizes a target microbe in the air [https://www.news10.com/business/press-releases/ein-presswire/873896442/poppy-awarded-arpa-h-contract-up-to-39m-to-tackle-preventative-health-through-breakthrough-indoor-air-infrastructure/](https://www.news10.com/business/press-releases/ein-presswire/873896442/poppy-awarded-arpa-h-contract-up-to-39m-to-tackle-preventative-health-through-breakthrough-indoor-air-infrastructure/)
+
+- A novel microarray qPCR biosensor, which utilizes a unique positional printing method to detect a broad spectrum of microbes [https://www.prnewswire.com/news-releases/safetraces-selected-as-a-prime-performer-for-arpa-h-building-resilient-environments-for-air-and-total-health-breathe-program-on-other-transaction-agreement-up-to-39-million-302571829.html](https://www.prnewswire.com/news-releases/safetraces-selected-as-a-prime-performer-for-arpa-h-building-resilient-environments-for-air-and-total-health-breathe-program-on-other-transaction-agreement-up-to-39-million-302571829.html)
+
+### News
+
+- **BREATHE research teams kick off efforts to enhance indoor air quality to improve health** [BREATHE research teams kick off efforts to enhance indoor air quality to improve health](https://arpa-h.gov/news-and-events/breathe-research-teams-kick-efforts-enhance-indoor-air-quality-improve-health)
 
 ### IAQ Calculation / Air Purifier reviews
 
@@ -61,6 +75,8 @@ This repository is a curated list of interesting and impactful projects related 
 - **WHN** A global network devoted to inspire collective action through science for a safer, healthier world [https://whn.global/](https://whn.global/)
 
 - **CrunchME** Data-informed advocacy to accelerate research on ME/CFS, Long COVID, and other infection-associated chronic conditions [https://crunchme.notion.site/homepage](https://crunchme.notion.site/homepage)
+
+- **ARPA-H Breathe** Building Resilient Environments for Air and Total Health [https://arpa-h.gov/explore-funding/programs/breathe](https://arpa-h.gov/explore-funding/programs/breathe)
 
 - **AmaticaHealth** A data platform for the world's most complex diseases [https://amaticahealth.com/](https://amaticahealth.com/)
 
@@ -328,6 +344,14 @@ This repository is a curated list of interesting and impactful projects related 
 - **MitigationMedia** [https://linktr.ee/mitigationmedia](https://linktr.ee/mitigationmedia)
 
 - **Voices of Long COVID** [https://www.buzzsprout.com/2303322](https://www.buzzsprout.com/2303322)
+
+### Mask retailers
+- **3M** [https://www.3m.com/](https://www.3m.com/)
+- **Wellbefore** [https://wellbefore.com/](https://wellbefore.com/)
+- **TheFaceMaskStore** [http://thefacemaskstore.co.uk/](http://thefacemaskstore.co.uk/)
+
+### Pluslife tests 
+- **TheFaceMaskStore** [http://thefacemaskstore.co.uk/](http://thefacemaskstore.co.uk/)
 
 
 ### Cafes/Establishments
