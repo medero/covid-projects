@@ -5,9 +5,9 @@ This repository is a curated list of interesting and impactful projects related 
 ### Real-time IAQ Detection
 
 #### Funded
-- [https://news.vt.edu/articles/2025/10/eng-clean-indoor-air-research-pandemic-contract.html](https://news.vt.edu/articles/2025/10/eng-clean-indoor-air-research-pandemic-contract.html)
+- A biosensor that enables real-time, ultrasensitive detection of specific pathogens and allergens using nanobody-based technology. [https://news.vt.edu/articles/2025/10/eng-clean-indoor-air-research-pandemic-contract.html](https://news.vt.edu/articles/2025/10/eng-clean-indoor-air-research-pandemic-contract.html)
 
-- [https://www.uv.es/uvweb/uv-news/en/news/a-biosensor-is-developed-detect-airborne-viruses-quickly-easily-low-cost-1285973304159/Novetat.html?id=1286451013364&plantilla=UV_Noticies/Page/TPGDetaillNews](https://www.uv.es/uvweb/uv-news/en/news/a-biosensor-is-developed-detect-airborne-viruses-quickly-easily-low-cost-1285973304159/Novetat.html?id=1286451013364&plantilla=UV_Noticies/Page/TPGDetaillNews)
+- A biosensor capable of detecting airborne viruses in real time [https://www.uv.es/uvweb/uv-news/en/news/a-biosensor-is-developed-detect-airborne-viruses-quickly-easily-low-cost-1285973304159/Novetat.html?id=1286451013364&plantilla=UV_Noticies/Page/TPGDetaillNews](https://www.uv.es/uvweb/uv-news/en/news/a-biosensor-is-developed-detect-airborne-viruses-quickly-easily-low-cost-1285973304159/Novetat.html?id=1286451013364&plantilla=UV_Noticies/Page/TPGDetaillNews)
 
 - An amplification-free genetic sensor that sends a tiny electrical signal when it recognizes a target microbe in the air [https://www.news10.com/business/press-releases/ein-presswire/873896442/poppy-awarded-arpa-h-contract-up-to-39m-to-tackle-preventative-health-through-breakthrough-indoor-air-infrastructure/](https://www.news10.com/business/press-releases/ein-presswire/873896442/poppy-awarded-arpa-h-contract-up-to-39m-to-tackle-preventative-health-through-breakthrough-indoor-air-infrastructure/)
 
@@ -352,7 +352,6 @@ This repository is a curated list of interesting and impactful projects related 
 
 ### Pluslife tests 
 - **TheFaceMaskStore** [http://thefacemaskstore.co.uk/](http://thefacemaskstore.co.uk/)
-
 
 ### Cafes/Establishments
 
