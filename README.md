@@ -178,8 +178,10 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **COVIDRiskTool** COVID-19 Airborne Aerosol Transmission Estimator [https://www.covidairbornerisk.com/](https://www.covidairbornerisk.com/)
 
-- **OSPE Air Quality Calculator**
+- **OSPE Air Quality Calculator** Ontario Society of Professional Engineers Air Quality Calculator
   [https://ospe-calc.herokuapp.com/Air_Changes_-_Ventilation](https://ospe-calc.herokuapp.com/Air_Changes_-_Ventilation)
+
+- **COVID-19 Aerosol Transmission Estimator** Prof. Jose L Jimenez & Dr. Zhe Peng Univ. Colorado-Boulder's COVID-19 Aerosol Transmission Estimator [https://docs.google.com/spreadsheets/d/16K1OQkLD4BjgBdO8ePj6ytf-RpPMlJ6aXFg3PrIQBbQ/edit?gid=519189277#gid=519189277](https://docs.google.com/spreadsheets/d/16K1OQkLD4BjgBdO8ePj6ytf-RpPMlJ6aXFg3PrIQBbQ/edit?gid=519189277#gid=519189277)
 
 
 ### Funding
@@ -203,19 +205,19 @@ This repository is a curated list of interesting and impactful projects related 
 - **HelpForLong COVID** Find care providers who understand Long COVID [https://helpforlongcovid.com/](https://helpforlongcovid.com/)
 
 ### Masks
-  - **An essay on how masks can end COVID-19** [https://aatishb.com/maskmath/](https://aatishb.com/maskmath/)
+  - **An essay on how masks can end COVID-19** An essay on how masks can end COVID-19 [https://aatishb.com/maskmath/](https://aatishb.com/maskmath/)
 
   - **The Astounding Physics of Masks** The astounding physics of masks [https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s](https://www.youtube.com/watch?v=eAdanPfQdCA&t=10s)
 
   - **Why we mask** COVID-19 zines/informational graphics [https://laurellynnleake.com/WhyWeMask/](https://laurellynnleake.com/WhyWeMask/)
 
-  - **Respirator fit testing** [https://m.youtube.com/channel/UCIh6HRdQGVy7VR4Lq22xbng](https://m.youtube.com/channel/UCIh6HRdQGVy7VR4Lq22xbng)
+  - **Respirator fit testing** Respirator fit testing [https://m.youtube.com/channel/UCIh6HRdQGVy7VR4Lq22xbng](https://m.youtube.com/channel/UCIh6HRdQGVy7VR4Lq22xbng)
 
-  - **Patient Knowhow** [https://patientknowhow.com](https://patientknowhow.com/)
+  - **Patient Knowhow** Patient Knowhow [https://patientknowhow.com](https://patientknowhow.com/)
 
-  - **Aaron Collins Top Mask Pick of 2023** [https://www.youtube.com/watch?si=TAa5zjcTtZYVulKc&v=s3-Hf6wnPds&feature=youtu.be](https://www.youtube.com/watch?si=TAa5zjcTtZYVulKc&v=s3-Hf6wnPds&feature=youtu.be)
+  - **Aaron Collins Top Mask Pick of 2023** Aaron Collins Top Mask Pick of 2023 [https://www.youtube.com/watch?si=TAa5zjcTtZYVulKc&v=s3-Hf6wnPds&feature=youtu.be](https://www.youtube.com/watch?si=TAa5zjcTtZYVulKc&v=s3-Hf6wnPds&feature=youtu.be)
 
-  - **Mask size guide for youth and small adults** [https://bsky.app/profile/parentmishmash.bsky.social/post/3l6qtmoacnq26](https://bsky.app/profile/parentmishmash.bsky.social/post/3l6qtmoacnq26)
+  - **Mask size guide for youth and small adults** Mask size guide for youth and small adults [https://bsky.app/profile/parentmishmash.bsky.social/post/3l6qtmoacnq26](https://bsky.app/profile/parentmishmash.bsky.social/post/3l6qtmoacnq26)
 
 ### CO2 Sensors
 
@@ -279,92 +281,90 @@ This repository is a curated list of interesting and impactful projects related 
 
 ### Misc
 
-- **Why should we care about a virus with a "99.8% survival rate"?** [https://tinyurl.com/COVIDrealImpact](https://tinyurl.com/COVIDrealImpact)
+- **Why should we care about a virus with a "99.8% survival rate"?** Why should we care about a virus with a 99.8% survival rate? [https://tinyurl.com/COVIDrealImpact](https://tinyurl.com/COVIDrealImpact)
 
-- **First 12 months of COVID timeline** [https://www.nature.com/articles/s41577-021-00522-1](https://www.nature.com/articles/s41577-021-00522-1)
+- **First 12 months of COVID timeline** First 12 months of COVID timeline [https://www.nature.com/articles/s41577-021-00522-1](https://www.nature.com/articles/s41577-021-00522-1)
 
-- **LongCovidCampaign** [https://www.longcovidcampaign.org/](https://www.longcovidcampaign.org/)
+- **LongCovidCampaign** LongCovidCampaign [https://www.longcovidcampaign.org/](https://www.longcovidcampaign.org/)
 
 - **Its Airborne** Hepa Filters / Clean Air Delivery Rates [https://itsairborne.com/](https://itsairborne.com/)
 
-- **PeoplesCDC**
-  [https://peoplescdc.org/](https://peoplescdc.org/)
+- **PeoplesCDC** People's CDC [https://peoplescdc.org/](https://peoplescdc.org/)
 
-- **CleanAirCrew** [https://cleanaircrew.org/](https://cleanaircrew.org/)
+- **CleanAirCrew** CleanAirCrew [https://cleanaircrew.org/](https://cleanaircrew.org/)
 
-- **Zine**
-  [https://newlevant.com/COVIDzine](https://newlevant.com/COVIDzine)
+- **Zine** COVIDzine [https://newlevant.com/COVIDzine](https://newlevant.com/COVIDzine)
 
-- **What therapists need to know: COVID-19** [https://covid-for-therapists.my.canva.site/](https://covid-for-therapists.my.canva.site/)
+- **What therapists need to know: COVID-19** What therapists need to know: COVID-19 [https://covid-for-therapists.my.canva.site/](https://covid-for-therapists.my.canva.site/)
 
-- **What therapists need to know: COVID-19 (Slideshow)**  [https://tinyurl.com/3fvzwp4a](https://tinyurl.com/3fvzwp4a)
+- **What therapists need to know: COVID-19 (Slideshow)** What therapists need to know: COVID-19 (Slideshow) [https://tinyurl.com/3fvzwp4a](https://tinyurl.com/3fvzwp4a)
 
 - **Lola Germs Reference List** [Lola Germs Reference List](https://www.dropbox.com/scl/fi/d4dzdprw7rrcdsii6xvlq/Lola-Germs-Reference-List-light-mode.pdf?rlkey=ufy6cp1kq7qd1b6ovhko938o1&e=2&st=oettjgvf&dl=0)
 
-- **Julie Sullivan's Long COVID Google Drive** [https://drive.google.com/drive/folders/1dnXRQEhqrEYSvMwhfxPEgEdHMRQozBaG](https://drive.google.com/drive/folders/1dnXRQEhqrEYSvMwhfxPEgEdHMRQozBaG)
+- **Julie Sullivan's Long COVID Google Drive** Julie Sullivan's Long COVID Google Drive [https://drive.google.com/drive/folders/1dnXRQEhqrEYSvMwhfxPEgEdHMRQozBaG](https://drive.google.com/drive/folders/1dnXRQEhqrEYSvMwhfxPEgEdHMRQozBaG)
 
-- **NotRecovered** [https://notrecovered.org/](https://notrecovered.org/)
+- **NotRecovered** NotRecovered [https://notrecovered.org/](https://notrecovered.org/)
 
-- **Covid posters** [COVID Posters](https://drive.google.com/drive/u/0/folders/1NptYhWsy4IsnfQOgWDtHnJ9CScQ5Y0ol)
+- **Covid posters** COVID posters [COVID Posters](https://drive.google.com/drive/u/0/folders/1NptYhWsy4IsnfQOgWDtHnJ9CScQ5Y0ol)
 
-- **Safeinside** [https://safeinside.co.uk/](https://safeinside.co.uk/)
+- **Safeinside** Safeinside [https://safeinside.co.uk/](https://safeinside.co.uk/)
 
-- **CovidSociety** [https://covidsociety.ca/](https://covidsociety.ca/)
+- **CovidSociety** COVID Society [https://covidsociety.ca/](https://covidsociety.ca/)
 
-- **Data Report** [https://www.youtube.com/channel/UCabkYozJ7EPxvvWtIvJbIDg?app=desktop](https://www.youtube.com/channel/UCabkYozJ7EPxvvWtIvJbIDg?app=desktop)
+- **Data Report** Data Report [https://www.youtube.com/channel/UCabkYozJ7EPxvvWtIvJbIDg?app=desktop](https://www.youtube.com/channel/UCabkYozJ7EPxvvWtIvJbIDg?app=desktop)
 
-- **React19** [https://react19.org/](https://react19.org/)
+- **React19** React19 [https://react19.org/](https://react19.org/)
 
-- **COVID19resources** [https://covid19resources.ca/covid-hazard-index/](https://covid19resources.ca/covid-hazard-index/)
+- **COVID19resources** COVID19resources [https://covid19resources.ca/covid-hazard-index/](https://covid19resources.ca/covid-hazard-index/)
 
-- **BerlinBuyersClub** [https://www.berlinbuyersclub.com/](https://www.berlinbuyersclub.com/)
+- **BerlinBuyersClub** Berlin Buyers Club [https://www.berlinbuyersclub.com/](https://www.berlinbuyersclub.com/)
 
-- **Your Immune System isn't a muscle** [https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/](https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/)
+- **Your Immune System isn't a muscle** Your Immune System isn't a muscle [https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/](https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/)
 
-- **Clean Indoor Air Toronto** [https://cleanindoorairto.ca/](https://cleanindoorairto.ca/)
+- **Clean Indoor Air Toronto** Clean Indoor Air Toronto [https://cleanindoorairto.ca/](https://cleanindoorairto.ca/)
 
-- **FRED - Civilian labor force with a disability, 16 years or over** [https://fred.stlouisfed.org/series/LNU01074597](https://fred.stlouisfed.org/series/LNU01074597)
+- **FRED - Civilian labor force with a disability, 16 years or over** FRED - civilian labor force with a disability, 16 years or over [https://fred.stlouisfed.org/series/LNU01074597](https://fred.stlouisfed.org/series/LNU01074597)
 
 - **Spreadsheet of IAQ/UVC Companies** Spreadsheet of IAQ/UVC Companies [https://docs.google.com/spreadsheets/d/10VNZbZw6DEOK635SBmZNXXHHc3N7NtNgIGtICKqeEIU/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/10VNZbZw6DEOK635SBmZNXXHHc3N7NtNgIGtICKqeEIU/edit?gid=0#gid=0)
 
-- **Harvard healthy buildings** [https://healthybuildings.hsph.harvard.edu/research/indoor-air-quality/](https://healthybuildings.hsph.harvard.edu/research/indoor-air-quality/)
+- **Harvard healthy buildings** Harvard Healthy Buildings [https://healthybuildings.hsph.harvard.edu/research/indoor-air-quality/](https://healthybuildings.hsph.harvard.edu/research/indoor-air-quality/)
 
-- **Maryland Indoor Air Quality Advocates** [https://www.facebook.com/groups/marylandindoorairqualityadvocates/](https://www.facebook.com/groups/marylandindoorairqualityadvocates/)
+- **Maryland Indoor Air Quality Advocates** Maryland Indoor Air Quality Advocates [https://www.facebook.com/groups/marylandindoorairqualityadvocates/](https://www.facebook.com/groups/marylandindoorairqualityadvocates/)
 
-- **OliviaBelknapTherapy** [https://www.oliviabelknaptherapy.com/covid-resources](https://www.oliviabelknaptherapy.com/covid-resources)
+- **OliviaBelknapTherapy** OliviaBelknapTherapy [https://www.oliviabelknaptherapy.com/covid-resources](https://www.oliviabelknaptherapy.com/covid-resources)
 
-- **Covid Conscious Therapists** [https://www.covidconscioustherapists.com/](https://www.covidconscioustherapists.com/)
+- **Covid Conscious Therapists** Covid Conscious Therapists [https://www.covidconscioustherapists.com/](https://www.covidconscioustherapists.com/)
 
-- **IACI Provider Manual** [https://www.coresinai.org/manual](https://www.coresinai.org/manual)
+- **IACI Provider Manual** IACI Provider Manual [https://www.coresinai.org/manual](https://www.coresinai.org/manual)
 
-- **Air Club** [https://www.linkedin.com/company/indoor-air-club/posts/?feedView=all](https://www.linkedin.com/company/indoor-air-club/posts/?feedView=all)
+- **Air Club** Air Club [https://www.linkedin.com/company/indoor-air-club/posts/?feedView=all](https://www.linkedin.com/company/indoor-air-club/posts/?feedView=all)
 
-- **SaferAirProject** [https://www.saferairproject.com/](https://www.saferairproject.com/)
+- **SaferAirProject** SaferAirProject [https://www.saferairproject.com/](https://www.saferairproject.com/)
 
 ### Podcasts
-- **PublicHealthIsDead** [https://www.publichealthisdead.com/](https://www.publichealthisdead.com/)
+- **PublicHealthIsDead** Public Health Is Dead [https://www.publichealthisdead.com/](https://www.publichealthisdead.com/)
 
-- **MitigationMedia** [https://linktr.ee/mitigationmedia](https://linktr.ee/mitigationmedia)
+- **MitigationMedia** Mitigation Media [https://linktr.ee/mitigationmedia](https://linktr.ee/mitigationmedia)
 
-- **Voices of Long COVID** [https://www.buzzsprout.com/2303322](https://www.buzzsprout.com/2303322)
+- **Voices of Long COVID** Voices of Long COVID [https://www.buzzsprout.com/2303322](https://www.buzzsprout.com/2303322)
 
 ### Mask retailers/resellers
 - **3M Aura 9205+** [https://www.amazon.com/Aura-Particulate-Respirator-Mask-White/dp/B09FM2P1KF/ref=sr_1_1?](https://www.amazon.com/Aura-Particulate-Respirator-Mask-White/dp/B09FM2P1KF/ref=sr_1_1?)
-- **3M** [https://www.3m.com/](https://www.3m.com/)
-- **Breathetec** [https://breatheteq.com/](https://breatheteq.com/)
-- **Bonafide** [https://bonafidemasks.com/][https://bonafidemasks.com/]
-- **Laianzhi** [https://www.laianzhi.org/](https://www.laianzhi.org/)
-- **Dräger** [https://www.draeger.com/en-us_us/Home](https://www.draeger.com/en-us_us/Home)
-- **Bnx** [https://bnx.com/made-in-usa/n95-mask-respirators-kn95-face-masks/](https://bnx.com/made-in-usa/n95-mask-respirators-kn95-face-masks/)
-- **Wellbefore** [https://wellbefore.com/](https://wellbefore.com/)
-- **TheFaceMaskStore** [http://thefacemaskstore.co.uk/](http://thefacemaskstore.co.uk/)
-- **Zimi** [https://zimiair.com/](https://zimiair.com/)
+- **3M** 3M [https://www.3m.com/](https://www.3m.com/)
+- **Breathetec** Breathetec [https://breatheteq.com/](https://breatheteq.com/)
+- **Bonafide** Bonafide Masks [https://bonafidemasks.com/][https://bonafidemasks.com/]
+- **Laianzhi** Laianzhi [https://www.laianzhi.org/](https://www.laianzhi.org/)
+- **Dräger** Drager [https://www.draeger.com/en-us_us/Home](https://www.draeger.com/en-us_us/Home)
+- **Bnx** Bnx [https://bnx.com/made-in-usa/n95-mask-respirators-kn95-face-masks/](https://bnx.com/made-in-usa/n95-mask-respirators-kn95-face-masks/)
+- **Wellbefore** Wellbefore [https://wellbefore.com/](https://wellbefore.com/)
+- **TheFaceMaskStore** TheFaceMaskStore [http://thefacemaskstore.co.uk/](http://thefacemaskstore.co.uk/)
+- **Zimi** Zimi [https://zimiair.com/](https://zimiair.com/)
 
 ### Air Filter retailers/resellers
-- **BNX MERV 13 Filter Corsi Rosenthal Fan** [https://www.amazon.com/dp/B09XC3RQ3J](https://www.amazon.com/dp/B09XC3RQ3J)
+- **BNX MERV 13 Corsi Rosenthal Filter** BNX Merv 13 Corsi Rosenthal Filter [https://www.amazon.com/dp/B09XC3RQ3J](https://www.amazon.com/dp/B09XC3RQ3J)
 
 ### Pluslife tests 
-- **TheFaceMaskStore** [http://thefacemaskstore.co.uk/](http://thefacemaskstore.co.uk/)
+- **TheFaceMaskStore** TheMaskStore [http://thefacemaskstore.co.uk/](http://thefacemaskstore.co.uk/)
 
 ### Cafes/Establishments
 
@@ -408,8 +408,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **University of Texas at Austin** [https://www.acs.org/pressroom/newsreleases/2023/march/is-it-covid-19-or-the-flu-new-sensor-could-tell-you-in-10-seconds.html](https://www.acs.org/pressroom/newsreleases/2023/march/is-it-covid-19-or-the-flu-new-sensor-could-tell-you-in-10-seconds.html)
 
-### Archived/Inactive
-- **COVID Can I do it?** COVID risk assessment for various activities (archive/defunt) [covidcanidoit.com](https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/)
+### Discords
+- **Cleaner air in schools** Cleaner air in schools [https://discord.gg/9hJJfB4n](https://discord.gg/9hJJfB4n)
 
 ### Real-time IAQ Detection
 
@@ -426,6 +426,9 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **BREATHE research teams kick off efforts to enhance indoor air quality to improve health** [BREATHE research teams kick off efforts to enhance indoor air quality to improve health](https://arpa-h.gov/news-and-events/breathe-research-teams-kick-efforts-enhance-indoor-air-quality-improve-health)
 
+
+### Archived/Inactive
+- **COVID Can I do it?** COVID risk assessment for various activities (archive/defunt) [covidcanidoit.com](https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/)
 
 
 ## License
