@@ -2,21 +2,6 @@
 
 This repository is a curated list of interesting and impactful projects related to COVID-19. These initiatives aim to improve air quality, track COVID-related data, and provide valuable resources for individuals and communities.
 
-### Real-time IAQ Detection
-
-#### Funded
-- A biosensor that enables real-time, ultrasensitive detection of specific pathogens and allergens using nanobody-based technology. [https://news.vt.edu/articles/2025/10/eng-clean-indoor-air-research-pandemic-contract.html](https://news.vt.edu/articles/2025/10/eng-clean-indoor-air-research-pandemic-contract.html)
-
-- A biosensor capable of detecting airborne viruses in real time [https://www.uv.es/uvweb/uv-news/en/news/a-biosensor-is-developed-detect-airborne-viruses-quickly-easily-low-cost-1285973304159/Novetat.html?id=1286451013364&plantilla=UV_Noticies/Page/TPGDetaillNews](https://www.uv.es/uvweb/uv-news/en/news/a-biosensor-is-developed-detect-airborne-viruses-quickly-easily-low-cost-1285973304159/Novetat.html?id=1286451013364&plantilla=UV_Noticies/Page/TPGDetaillNews)
-
-- An amplification-free genetic sensor that sends a tiny electrical signal when it recognizes a target microbe in the air [https://www.news10.com/business/press-releases/ein-presswire/873896442/poppy-awarded-arpa-h-contract-up-to-39m-to-tackle-preventative-health-through-breakthrough-indoor-air-infrastructure/](https://www.news10.com/business/press-releases/ein-presswire/873896442/poppy-awarded-arpa-h-contract-up-to-39m-to-tackle-preventative-health-through-breakthrough-indoor-air-infrastructure/)
-
-- A novel microarray qPCR biosensor, which utilizes a unique positional printing method to detect a broad spectrum of microbes [https://www.prnewswire.com/news-releases/safetraces-selected-as-a-prime-performer-for-arpa-h-building-resilient-environments-for-air-and-total-health-breathe-program-on-other-transaction-agreement-up-to-39-million-302571829.html](https://www.prnewswire.com/news-releases/safetraces-selected-as-a-prime-performer-for-arpa-h-building-resilient-environments-for-air-and-total-health-breathe-program-on-other-transaction-agreement-up-to-39-million-302571829.html)
-
-### News
-
-- **BREATHE research teams kick off efforts to enhance indoor air quality to improve health** [BREATHE research teams kick off efforts to enhance indoor air quality to improve health](https://arpa-h.gov/news-and-events/breathe-research-teams-kick-efforts-enhance-indoor-air-quality-improve-health)
-
 ### IAQ Calculation / Air Purifier reviews
 
 - **Clean Air Stars** Assess indoor aerosol transmission risk / air filter recommendation tool [https://cleanairstars.com/](https://cleanairstars.com/)
@@ -46,7 +31,7 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **CO2Kuki** In development Android app for CO2 risk [https://co2kuki.com/](https://co2kuki.com/)
 
-- **UCritter** [https://www.ucritter.com/](https://www.ucritter.com/)
+- **UCritter** UCritter [https://www.ucritter.com/](https://www.ucritter.com/)
 
 ### Organizations / Mask Bloc Directory
 
@@ -82,11 +67,13 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Renegade Research** Patient led nonprofit 501c3 on MECFS and LongCovid [https://www.renegade-research.org/](https://www.renegade-research.org/)
 
-### Wastewater sampling | genome/lineage sequencing
+### Forecasting | Wastewater sampling | genome/lineage sequencing
 
 - **WastewaterSCAN WW** National monitoring effort to provide a comprehensive view of SARS-CoV-2, Influenza A+B, RSV, and other diseases in communities from Stanford University, Emory University and local wastewater and public health officials partner to produce actionable data. [https://data.wastewaterscan.org/](https://data.wastewaterscan.org/)
 
 - **PMC19** Pandemic Mitigation Collaborative managed by Dr. Hoerger [https://www.pmc19.com/data/index.php](https://www.pmc19.com/data/index.php)
+
+- **JWeiland** [https://x.com/JPWeiland](https://x.com/JPWeiland)
 
 - **Marc Johnson / DHO Lab** Viral monitoring via wastewater deep sequencing for COVID-19 and other viruses[https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html](https://dholab.github.io/public_viz/001-make-by-city-and-by-virus-dashboards/index.html)
 
@@ -127,6 +114,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **You have to life your life** Question/answer based guide for COVID-19 [https://youhavetoliveyour.life/](https://youhavetoliveyour.life/)
 
+- **I've read 3,000 studies about COVID: Here's what you're ignoring that could (still) harm you or a loved one** [https://medium.com/@augieray_66704/ive-read-3-000-studies-about-covid-here-s-what-you-re-ignoring-that-could-still-harm-you-or-a-accafe0f7c66](https://medium.com/@augieray_66704/ive-read-3-000-studies-about-covid-here-s-what-you-re-ignoring-that-could-still-harm-you-or-a-accafe0f7c66)
+
 - **COVID Research & implications** Topic based COVID-19 round-up [https://tinyurl.com/yme4ed5j](https://docs.google.com/document/d/1XbGCZ5NtwvNb0Z2fFzQYnKT96Ij79cNw1GA47rhShMo/edit?pli=1&tab=t.0)
 
 - **For Doctors** Presentation on COVID for doctors by Dr. Nancy Malek [https://covidfordoctors.org/](https://covidfordoctors.org/)
@@ -160,6 +149,8 @@ This repository is a curated list of interesting and impactful projects related 
 - **Lolagerms** [https://www.youtube.com/@LolaGerms](https://www.youtube.com/@LolaGerms)
 
 - **PacoOnPause** [https://www.instagram.com/pacoonpause/#](https://www.instagram.com/pacoonpause/#)
+
+- **Covid safety for schools** [https://www.youtube.com/@covidsafetyforschools](https://www.youtube.com/@covidsafetyforschools)
 
 ## Trials
 
@@ -222,9 +213,15 @@ This repository is a curated list of interesting and impactful projects related 
 
   - **Patient Knowhow** [https://patientknowhow.com](https://patientknowhow.com/)
 
+  - **Aaron Collins Top Mask Pick of 2023** [https://www.youtube.com/watch?si=TAa5zjcTtZYVulKc&v=s3-Hf6wnPds&feature=youtu.be](https://www.youtube.com/watch?si=TAa5zjcTtZYVulKc&v=s3-Hf6wnPds&feature=youtu.be)
+
+  - **Mask size guide for youth and small adults** [https://bsky.app/profile/parentmishmash.bsky.social/post/3l6qtmoacnq26](https://bsky.app/profile/parentmishmash.bsky.social/post/3l6qtmoacnq26)
+
 ### CO2 Sensors
 
 - **Aircoda** A pocket CO2 sensor [https://www.aircoda.com/](https://www.aircoda.com/)
+
+- **Airlab** Airlab air quality monitor [https://networkedartifacts.com/airlab/](https://networkedartifacts.com/airlab/)
 
 - **Airspot Health** The smallest CO2 monitor with an Android/iOS app [https://airspothealth.com/](https://airspothealth.com/)
 
@@ -241,6 +238,8 @@ This repository is a curated list of interesting and impactful projects related 
 - **Airvalent** Indoor air quality monitors [https://airvalent.com/](https://airvalent.com/)
 
 ### Air Purifiers/Filters
+
+- **How to build a Corsi Rosenthal box** [https://cleanaircrew.org/box-fan-filters/](https://cleanaircrew.org/box-fan-filters/)
 
 - **Cleanairkits** Next-Gen Corsi-Rosenthal Box & Double-Barrel HEPA [https://www.cleanairkits.com/](https://www.cleanairkits.com/)
 
@@ -302,6 +301,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Lola Germs Reference List** [Lola Germs Reference List](https://www.dropbox.com/scl/fi/d4dzdprw7rrcdsii6xvlq/Lola-Germs-Reference-List-light-mode.pdf?rlkey=ufy6cp1kq7qd1b6ovhko938o1&e=2&st=oettjgvf&dl=0)
 
+- **Julie Sullivan's Long COVID Google Drive** [https://drive.google.com/drive/folders/1dnXRQEhqrEYSvMwhfxPEgEdHMRQozBaG](https://drive.google.com/drive/folders/1dnXRQEhqrEYSvMwhfxPEgEdHMRQozBaG)
+
 - **NotRecovered** [https://notrecovered.org/](https://notrecovered.org/)
 
 - **Covid posters** [COVID Posters](https://drive.google.com/drive/u/0/folders/1NptYhWsy4IsnfQOgWDtHnJ9CScQ5Y0ol)
@@ -319,6 +320,8 @@ This repository is a curated list of interesting and impactful projects related 
 - **BerlinBuyersClub** [https://www.berlinbuyersclub.com/](https://www.berlinbuyersclub.com/)
 
 - **Your Immune System isn't a muscle** [https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/](https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/)
+
+- **Clean Indoor Air Toronto** [https://cleanindoorairto.ca/](https://cleanindoorairto.ca/)
 
 - **FRED - Civilian labor force with a disability, 16 years or over** [https://fred.stlouisfed.org/series/LNU01074597](https://fred.stlouisfed.org/series/LNU01074597)
 
@@ -345,10 +348,20 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Voices of Long COVID** [https://www.buzzsprout.com/2303322](https://www.buzzsprout.com/2303322)
 
-### Mask retailers
+### Mask retailers/resellers
+- **3M Aura 9205+** [https://www.amazon.com/Aura-Particulate-Respirator-Mask-White/dp/B09FM2P1KF/ref=sr_1_1?](https://www.amazon.com/Aura-Particulate-Respirator-Mask-White/dp/B09FM2P1KF/ref=sr_1_1?)
 - **3M** [https://www.3m.com/](https://www.3m.com/)
+- **Breathetec** [https://breatheteq.com/](https://breatheteq.com/)
+- **Bonafide** [https://bonafidemasks.com/][https://bonafidemasks.com/]
+- **Laianzhi** [https://www.laianzhi.org/](https://www.laianzhi.org/)
+- **Dräger** [https://www.draeger.com/en-us_us/Home](https://www.draeger.com/en-us_us/Home)
+- **Bnx** [https://bnx.com/made-in-usa/n95-mask-respirators-kn95-face-masks/](https://bnx.com/made-in-usa/n95-mask-respirators-kn95-face-masks/)
 - **Wellbefore** [https://wellbefore.com/](https://wellbefore.com/)
 - **TheFaceMaskStore** [http://thefacemaskstore.co.uk/](http://thefacemaskstore.co.uk/)
+- **Zimi** [https://zimiair.com/](https://zimiair.com/)
+
+### Air Filter retailers/resellers
+- **BNX MERV 13 Filter Corsi Rosenthal Fan** [https://www.amazon.com/dp/B09XC3RQ3J](https://www.amazon.com/dp/B09XC3RQ3J)
 
 ### Pluslife tests 
 - **TheFaceMaskStore** [http://thefacemaskstore.co.uk/](http://thefacemaskstore.co.uk/)
@@ -358,9 +371,30 @@ This repository is a curated list of interesting and impactful projects related 
 - **ApricotTreeCafe** [https://www.apricottreecafe.com/](https://www.apricottreecafe.com/)
 
 ### Books
+
 - **Immune** [https://www.amazon.com/Immune-Journey-Mysterious-System-Keeps/dp/0593241312](https://www.amazon.com/Immune-Journey-Mysterious-System-Keeps/dp/0593241312)
 
 - **Airborne** [https://www.amazon.com/Air-Borne-Hidden-History-Life-Breathe/dp/0593473590](https://www.amazon.com/Air-Borne-Hidden-History-Life-Breathe/dp/0593473590)
+
+- **Viral Underclass** [https://www.amazon.com/Viral-Underclass-Ableism-Capitalism-Margins/dp/1250796636/ref=sr_1_1?](https://www.amazon.com/Viral-Underclass-Ableism-Capitalism-Margins/dp/1250796636/ref=sr_1_1?)
+
+- **Janeway's Immunobiology 10th edition** [https://www.amazon.com/Janeways-Immunobiology-Kenneth-M-Murphy/dp/0393884899/ref=pd_lpo_d_sccl_2/143-2011423-1182851](https://www.amazon.com/Janeways-Immunobiology-Kenneth-M-Murphy/dp/0393884899/ref=pd_lpo_d_sccl_2/143-2011423-1182851)
+
+- **Healthy Buildings** [https://www.amazon.com/Healthy-Buildings-Indoor-Performance-Productivity/dp/0674237978](https://www.amazon.com/Healthy-Buildings-Indoor-Performance-Productivity/dp/0674237978)
+
+- **Spillover** [https://www.amazon.com/Spillover-Animal-Infections-Human-Pandemic/dp/0393066800](https://www.amazon.com/Spillover-Animal-Infections-Human-Pandemic/dp/0393066800)
+
+- **We Want Them Infected** [https://www.amazon.com/Want-Them-Infected-anti-vaccine-Americans/dp/1959346032/ref=sr_1_1](https://www.amazon.com/Want-Them-Infected-anti-vaccine-Americans/dp/1959346032/ref=sr_1_1)
+
+- **Uncontrolled Spread** [https://www.amazon.com/Uncontrolled-Spread-COVID-19-Crushed-Pandemic/dp/006308001X](https://www.amazon.com/Uncontrolled-Spread-COVID-19-Crushed-Pandemic/dp/006308001X)
+
+- **Lessons from the COVID War** [https://www.amazon.com/Lessons-Covid-War-Investigative-Report/dp/1541703804/ref=pd_lpo_d_sccl_2/143-2011423-1182851](https://www.amazon.com/Lessons-Covid-War-Investigative-Report/dp/1541703804/ref=pd_lpo_d_sccl_2/143-2011423-1182851)
+
+- **How the Immune System Works** [https://www.amazon.com/Immune-System-Works-Lauren-Sompayrac/dp/1119890683](https://www.amazon.com/Immune-System-Works-Lauren-Sompayrac/dp/1119890683)
+
+- **Rebel Health** [https://www.amazon.com/Rebel-Health-Patient-Led-Revolution-Medical/dp/0262553007/ref=sr_1_1](https://www.amazon.com/Rebel-Health-Patient-Led-Revolution-Medical/dp/0262553007/ref=sr_1_1)
+
+- **Invisible Illness** [https://www.amazon.com/Invisible-Illness-History-Hysteria-COVID/dp/0520421523/ref=sr_1_2](https://www.amazon.com/Invisible-Illness-History-Hysteria-COVID/dp/0520421523/ref=sr_1_2)
 
 ### Subreddits
 - **ZeroCovidCommunity** [https://www.reddit.com/r/ZeroCovidCommunity/](https://www.reddit.com/r/ZeroCovidCommunity/)
@@ -376,6 +410,22 @@ This repository is a curated list of interesting and impactful projects related 
 
 ### Archived/Inactive
 - **COVID Can I do it?** COVID risk assessment for various activities (archive/defunt) [covidcanidoit.com](https://web.archive.org/web/20240000000000*/http://covidcanidoit.com/)
+
+### Real-time IAQ Detection
+
+#### Funded
+- A biosensor that enables real-time, ultrasensitive detection of specific pathogens and allergens using nanobody-based technology. [https://news.vt.edu/articles/2025/10/eng-clean-indoor-air-research-pandemic-contract.html](https://news.vt.edu/articles/2025/10/eng-clean-indoor-air-research-pandemic-contract.html)
+
+- A biosensor capable of detecting airborne viruses in real time [https://www.uv.es/uvweb/uv-news/en/news/a-biosensor-is-developed-detect-airborne-viruses-quickly-easily-low-cost-1285973304159/Novetat.html?id=1286451013364&plantilla=UV_Noticies/Page/TPGDetaillNews](https://www.uv.es/uvweb/uv-news/en/news/a-biosensor-is-developed-detect-airborne-viruses-quickly-easily-low-cost-1285973304159/Novetat.html?id=1286451013364&plantilla=UV_Noticies/Page/TPGDetaillNews)
+
+- An amplification-free genetic sensor that sends a tiny electrical signal when it recognizes a target microbe in the air [https://www.news10.com/business/press-releases/ein-presswire/873896442/poppy-awarded-arpa-h-contract-up-to-39m-to-tackle-preventative-health-through-breakthrough-indoor-air-infrastructure/](https://www.news10.com/business/press-releases/ein-presswire/873896442/poppy-awarded-arpa-h-contract-up-to-39m-to-tackle-preventative-health-through-breakthrough-indoor-air-infrastructure/)
+
+- A novel microarray qPCR biosensor, which utilizes a unique positional printing method to detect a broad spectrum of microbes [https://www.prnewswire.com/news-releases/safetraces-selected-as-a-prime-performer-for-arpa-h-building-resilient-environments-for-air-and-total-health-breathe-program-on-other-transaction-agreement-up-to-39-million-302571829.html](https://www.prnewswire.com/news-releases/safetraces-selected-as-a-prime-performer-for-arpa-h-building-resilient-environments-for-air-and-total-health-breathe-program-on-other-transaction-agreement-up-to-39-million-302571829.html)
+
+### News
+
+- **BREATHE research teams kick off efforts to enhance indoor air quality to improve health** [BREATHE research teams kick off efforts to enhance indoor air quality to improve health](https://arpa-h.gov/news-and-events/breathe-research-teams-kick-efforts-enhance-indoor-air-quality-improve-health)
+
 
 
 ## License
