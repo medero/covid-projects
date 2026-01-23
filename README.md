@@ -142,6 +142,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **Covidnow** [https://covidnow.info/](https://covidnow.info/)
 
+- **long-covid.org** [https://www.long-covid.org/](https://www.long-covid.org/)
+
 ## Youtube/Videos
 
 - **Al Haddrell** Al Haddrell's youtube channel featuring aerosol content [https://m.youtube.com/@AlHaddrell/videos](https://m.youtube.com/@AlHaddrell/videos)
@@ -341,6 +343,8 @@ This repository is a curated list of interesting and impactful projects related 
 
 - **SaferAirProject** SaferAirProject [https://www.saferairproject.com/](https://www.saferairproject.com/)
 
+- **Memorial Sloan Kettering Cancer Center** [https://libguides.mskcc.org/CovidImpacts/Home](https://libguides.mskcc.org/CovidImpacts/Home)
+
 ### Podcasts
 - **PublicHealthIsDead** Public Health Is Dead [https://www.publichealthisdead.com/](https://www.publichealthisdead.com/)
 
@@ -358,6 +362,7 @@ This repository is a curated list of interesting and impactful projects related 
 - **Bnx** Bnx [https://bnx.com/made-in-usa/n95-mask-respirators-kn95-face-masks/](https://bnx.com/made-in-usa/n95-mask-respirators-kn95-face-masks/)
 - **Wellbefore** Wellbefore [https://wellbefore.com/](https://wellbefore.com/)
 - **TheFaceMaskStore** TheFaceMaskStore [http://thefacemaskstore.co.uk/](http://thefacemaskstore.co.uk/)
+- **hlpmedical** [https://hlpmedical.net/en-us](https://hlpmedical.net/en-us)
 - **Zimi** Zimi [https://zimiair.com/](https://zimiair.com/)
 
 ### Air Filter retailers/resellers
@@ -393,8 +398,6 @@ This repository is a curated list of interesting and impactful projects related 
 - **How the Immune System Works** [https://www.amazon.com/Immune-System-Works-Lauren-Sompayrac/dp/1119890683](https://www.amazon.com/Immune-System-Works-Lauren-Sompayrac/dp/1119890683)
 
 - **Rebel Health** [https://www.amazon.com/Rebel-Health-Patient-Led-Revolution-Medical/dp/0262553007/ref=sr_1_1](https://www.amazon.com/Rebel-Health-Patient-Led-Revolution-Medical/dp/0262553007/ref=sr_1_1)
-
-- **Invisible Illness** [https://www.amazon.com/Invisible-Illness-History-Hysteria-COVID/dp/0520421523/ref=sr_1_2](https://www.amazon.com/Invisible-Illness-History-Hysteria-COVID/dp/0520421523/ref=sr_1_2)
 
 ### Subreddits
 - **ZeroCovidCommunity** [https://www.reddit.com/r/ZeroCovidCommunity/](https://www.reddit.com/r/ZeroCovidCommunity/)
